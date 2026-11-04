@@ -1,6 +1,6 @@
 {
   "name": "hyrule-data",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Offline, typed data for Breath of the Wild and Tears of the Kingdom: monsters, creatures, materials, equipment and treasure. Unofficial fan project.",
   "keywords": [
     "botw",
@@ -13,6 +13,14 @@
   ],
   "license": "MIT",
   "author": "Yiqing Liang",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anson2004/hyrule-data.git"
+  },
+  "homepage": "https://github.com/anson2004/hyrule-data#readme",
+  "bugs": {
+    "url": "https://github.com/anson2004/hyrule-data/issues"
+  },
   "type": "module",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
