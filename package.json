@@ -1,0 +1,56 @@
+{
+  "name": "hyrule-data",
+  "version": "0.1.0",
+  "description": "Offline, typed data for Breath of the Wild and Tears of the Kingdom: monsters, creatures, materials, equipment and treasure. Unofficial fan project.",
+  "keywords": [
+    "botw",
+    "totk",
+    "breath-of-the-wild",
+    "tears-of-the-kingdom",
+    "hyrule",
+    "compendium",
+    "game-data"
+  ],
+  "license": "MIT",
+  "author": "Yiqing Liang",
+  "type": "module",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": {
+        "types": "./dist/index.d.ts",
+        "default": "./dist/index.js"
+      },
+      "require": {
+        "types": "./dist/index.d.cts",
+        "default": "./dist/index.cjs"
+      }
+    }
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE",
+    "NOTICE.md"
+  ],
+  "sideEffects": false,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "tsup",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "sync-data": "tsx scripts/sync-data.ts",
+    "prepublishOnly": "npm run typecheck && npm test && npm run build"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "tsup": "^8.5.1",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.3",
+    "vitest": "^3.2.7"
+  }
+}

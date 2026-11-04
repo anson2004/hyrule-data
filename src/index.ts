@@ -1,0 +1,67 @@
+import botwData from './data/botw.json';
+import totkData from './data/totk.json';
+import type { Category, Entry, EntryOfCategory, Game } from './types.js';
+
+export * from './types.js';
+
+const DATA: Record<Game, readonly Entry[]> = {
+  botw: botwData as Entry[],
+  totk: totkData as Entry[],
+};
+
+const normalizeName = (name: string) => name.trim().toLowerCase().replace(/[\s_-]+/g, ' ');
+
+/** All bundled entries for a game, optionally limited to one category. Works offline. */
+export function getEntries(game: Game): readonly Entry[];
+export function getEntries<C extends Category>(game: Game, category: C): readonly EntryOfCategory<C>[];
+export function getEntries(game: Game, category?: Category): readonly Entry[] {
+  assertGame(game);
+  const all = DATA[game];
+  return category ? all.filter((e) => e.category === category) : all;
+}
+
+/** Looks up one entry by compendium id or name (case-insensitive; "_" and "-" match spaces). */
+export function getEntry(game: Game, idOrName: number | string): Entry | undefined {
+  assertGame(game);
+  if (typeof idOrName === 'number') return DATA[game].find((e) => e.id === idOrName);
+  const wanted = normalizeName(idOrName);
+  return DATA[game].find((e) => e.name === wanted);
+}
+
+export const getMonsters = (game: Game) => getEntries(game, 'monsters');
+export const getCreatures = (game: Game) => getEntries(game, 'creatures');
+export const getMaterials = (game: Game) => getEntries(game, 'materials');
+export const getEquipment = (game: Game) => getEntries(game, 'equipment');
+export const getTreasure = (game: Game) => getEntries(game, 'treasure');
+
+/** Entries whose name contains `query` (case-insensitive). */
+export function search(game: Game, query: string): Entry[] {
+  assertGame(game);
+  const q = normalizeName(query);
+  if (!q) return [];
+  return DATA[game].filter((e) => e.name.includes(q));
+}
+
+/** Monsters, creatures and treasure that drop the given item. */
+export function findByDrop(game: Game, item: string): Entry[] {
+  assertGame(game);
+  const wanted = normalizeName(item);
+  return DATA[game].filter((e) => 'drops' in e && e.drops.includes(wanted));
+}
+
+/** Entries commonly found in the given region (case-insensitive exact match). */
+export function findByLocation(game: Game, region: string): Entry[] {
+  assertGame(game);
+  const wanted = region.trim().toLowerCase();
+  return DATA[game].filter((e) => e.commonLocations.some((l) => l.toLowerCase() === wanted));
+}
+
+/** Every distinct region name that appears in `commonLocations`, sorted. */
+export function getLocations(game: Game): string[] {
+  assertGame(game);
+  return [...new Set(DATA[game].flatMap((e) => e.commonLocations))].sort();
+}
+
+function assertGame(game: string): asserts game is Game {
+  if (!(game in DATA)) throw new TypeError(`Unknown game "${game}". Expected "botw" or "totk".`);
+}

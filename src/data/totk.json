@@ -1,0 +1,7223 @@
+[
+ {
+  "id": 1,
+  "name": "horse",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Faron Grasslands"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": []
+ },
+ {
+  "id": 2,
+  "name": "giant horse",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": []
+ },
+ {
+  "id": 3,
+  "name": "white horse",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": []
+ },
+ {
+  "id": 4,
+  "name": "giant white stallion",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": []
+ },
+ {
+  "id": 5,
+  "name": "golden horse",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": []
+ },
+ {
+  "id": 6,
+  "name": "stalhorse",
+  "game": "totk",
+  "commonLocations": [
+   "Hebra Mountains",
+   "Akkala Highlands"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": []
+ },
+ {
+  "id": 7,
+  "name": "donkey",
+  "game": "totk",
+  "commonLocations": [
+   "Greater Hyrule"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": []
+ },
+ {
+  "id": 8,
+  "name": "sand seal",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": []
+ },
+ {
+  "id": 9,
+  "name": "patricia",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": []
+ },
+ {
+  "id": 10,
+  "name": "bushy-tailed squirrel",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Hyrule Ridge"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "acorn"
+  ]
+ },
+ {
+  "id": 11,
+  "name": "woodland boar",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "West Necluda"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "raw meat"
+  ]
+ },
+ {
+  "id": 12,
+  "name": "red-tusked boar",
+  "game": "totk",
+  "commonLocations": [
+   "Akkala Highlands",
+   "Hyrule Ridge"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "raw prime meat"
+  ]
+ },
+ {
+  "id": 13,
+  "name": "mountain goat",
+  "game": "totk",
+  "commonLocations": [
+   "East Necluda",
+   "Great Hyrule Forest"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "raw meat"
+  ]
+ },
+ {
+  "id": 14,
+  "name": "white goat",
+  "game": "totk",
+  "commonLocations": [
+   "East Necluda",
+   "Hyrule Ridge"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": []
+ },
+ {
+  "id": 15,
+  "name": "mountain buck",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Lanayru"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "raw prime meat"
+  ]
+ },
+ {
+  "id": 16,
+  "name": "mountain doe",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Lanayru"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "raw prime meat"
+  ]
+ },
+ {
+  "id": 17,
+  "name": "water buffalo",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Wetlands",
+   "Hyrule Ridge"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "raw prime meat",
+   "raw gourmet meat"
+  ]
+ },
+ {
+  "id": 18,
+  "name": "hateno cow",
+  "game": "totk",
+  "commonLocations": [
+   "Hateno Village",
+   "Lurelin Village"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": []
+ },
+ {
+  "id": 19,
+  "name": "highland sheep",
+  "game": "totk",
+  "commonLocations": [
+   "East Necluda",
+   "Akkala Highlands"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": []
+ },
+ {
+  "id": 20,
+  "name": "grassland fox",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Lanayru Great Spring"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "raw meat"
+  ]
+ },
+ {
+  "id": 21,
+  "name": "snowcoat fox",
+  "game": "totk",
+  "commonLocations": [
+   "Hebra Mountains",
+   "Tabantha Frontier"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "raw prime meat",
+   "raw gourmet meat"
+  ]
+ },
+ {
+  "id": 22,
+  "name": "maraudo wolf",
+  "game": "totk",
+  "commonLocations": [
+   "Tabantha Frontier",
+   "Eldin Canyon"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "raw prime meat",
+   "raw gourmet meat"
+  ]
+ },
+ {
+  "id": 23,
+  "name": "wasteland coyote",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert",
+   "Gerudo Highlands"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "raw prime meat",
+   "raw gourmet meat"
+  ]
+ },
+ {
+  "id": 24,
+  "name": "cold-footed wolf",
+  "game": "totk",
+  "commonLocations": [
+   "Hebra Mountains",
+   "Gerudo Highlands"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "raw prime meat",
+   "raw gourmet meat"
+  ]
+ },
+ {
+  "id": 25,
+  "name": "tabantha moose",
+  "game": "totk",
+  "commonLocations": [
+   "Hebra Mountains",
+   "Tabantha Tundra"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "raw prime meat",
+   "raw gourmet meat"
+  ]
+ },
+ {
+  "id": 26,
+  "name": "dondon",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": []
+ },
+ {
+  "id": 27,
+  "name": "honeyvore bear",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Ridge",
+   "West Necluda"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "raw prime meat",
+   "raw gourmet meat",
+   "courser bee honey"
+  ]
+ },
+ {
+  "id": 28,
+  "name": "grizzlemaw bear",
+  "game": "totk",
+  "commonLocations": [
+   "Hebra Mountains",
+   "Gerudo Highlands"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "raw prime meat",
+   "raw gourmet meat",
+   "hearty salmon"
+  ]
+ },
+ {
+  "id": 29,
+  "name": "hylian retriever",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Eldin Canyon"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": []
+ },
+ {
+  "id": 30,
+  "name": "blupee",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": []
+ },
+ {
+  "id": 31,
+  "name": "bubbulfrog",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "bubbul gem"
+  ]
+ },
+ {
+  "id": 32,
+  "name": "common sparrow",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Great Spring",
+   "Hyrule Ridge"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "chickaloo tree nut"
+  ]
+ },
+ {
+  "id": 33,
+  "name": "red sparrow",
+  "game": "totk",
+  "commonLocations": [
+   "Hebra Mountains",
+   "Hyrule Ridge"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "chickaloo tree nut"
+  ]
+ },
+ {
+  "id": 34,
+  "name": "blue sparrow",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Great Spring",
+   "East Necluda"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "chickaloo tree nut"
+  ]
+ },
+ {
+  "id": 35,
+  "name": "rainbow sparrow",
+  "game": "totk",
+  "commonLocations": [
+   "Faron Grasslands",
+   "East Necluda"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "chickaloo tree nut"
+  ]
+ },
+ {
+  "id": 36,
+  "name": "sand sparrow",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "chickaloo tree nut"
+  ]
+ },
+ {
+  "id": 37,
+  "name": "golden sparrow",
+  "game": "totk",
+  "commonLocations": [
+   "Great Sky Island",
+   "Eldin Canyon"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "chickaloo tree nut"
+  ]
+ },
+ {
+  "id": 38,
+  "name": "wood pigeon",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Ridge",
+   "Hyrule Field"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "raw bird drumstick"
+  ]
+ },
+ {
+  "id": 39,
+  "name": "rainbow pigeon",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Ridge",
+   "Akkala Highlands"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "raw bird thigh"
+  ]
+ },
+ {
+  "id": 40,
+  "name": "hotfeather pigeon",
+  "game": "totk",
+  "commonLocations": [
+   "Eldin Canyon",
+   "Eldin Sky Archipelago"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "raw bird thigh"
+  ]
+ },
+ {
+  "id": 41,
+  "name": "white pigeon",
+  "game": "totk",
+  "commonLocations": [
+   "Hebra Mountains",
+   "Gerudo Highlands"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "raw bird thigh",
+   "raw whole bird"
+  ]
+ },
+ {
+  "id": 42,
+  "name": "accented pigeon",
+  "game": "totk",
+  "commonLocations": [
+   "Great Sky Island",
+   "East Gerudo Sky Archipelago"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "raw bird drumstick"
+  ]
+ },
+ {
+  "id": 43,
+  "name": "mountain crow",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Ridge",
+   "Great Hyrule Forest"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "raw bird drumstick"
+  ]
+ },
+ {
+  "id": 44,
+  "name": "bright-chested duck",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Ridge",
+   "Hyrule Field"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "raw bird drumstick"
+  ]
+ },
+ {
+  "id": 45,
+  "name": "blue-winged heron",
+  "game": "totk",
+  "commonLocations": [
+   "Great Sky Island",
+   "Lanayru Wetlands"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "raw bird drumstick"
+  ]
+ },
+ {
+  "id": 46,
+  "name": "pink heron",
+  "game": "totk",
+  "commonLocations": [
+   "Central Hyrule Sky",
+   "Hyrule Field"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "raw bird drumstick"
+  ]
+ },
+ {
+  "id": 47,
+  "name": "islander hawk",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Canyon",
+   "Hyrule Ridge"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "raw bird thigh"
+  ]
+ },
+ {
+  "id": 48,
+  "name": "seagull",
+  "game": "totk",
+  "commonLocations": [
+   "Necluda Sea",
+   "Lanayru Sea"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "raw bird drumstick"
+  ]
+ },
+ {
+  "id": 49,
+  "name": "cloud seagull",
+  "game": "totk",
+  "commonLocations": [
+   "Great Sky Island",
+   "North Necluda Sky Archipelago"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "raw bird drumstick"
+  ]
+ },
+ {
+  "id": 50,
+  "name": "eldin ostrich",
+  "game": "totk",
+  "commonLocations": [
+   "Death Mountain",
+   "Eldin Mountains"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "raw bird thigh",
+   "raw whole bird"
+  ]
+ },
+ {
+  "id": 51,
+  "name": "forest ostrich",
+  "game": "totk",
+  "commonLocations": [
+   "Great Sky Island",
+   "South Lanayru Sky Archipelago"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "raw meat"
+  ]
+ },
+ {
+  "id": 52,
+  "name": "cucco",
+  "game": "totk",
+  "commonLocations": [
+   "West Necluda",
+   "Hyrule Field"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": false,
+  "drops": [
+   "bird egg"
+  ]
+ },
+ {
+  "id": 53,
+  "name": "hyrule bass",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "West Necluda"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "",
+  "heartsRecovered": 1
+ },
+ {
+  "id": 54,
+  "name": "hearty bass",
+  "game": "totk",
+  "commonLocations": [
+   "Tabantha Sky Archipelago",
+   "West Hebra Sky Archipelago"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "extra hearts",
+  "heartsRecovered": 2
+ },
+ {
+  "id": 55,
+  "name": "staminoka bass",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "West Necluda"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "stamina recovery",
+  "heartsRecovered": 1
+ },
+ {
+  "id": 56,
+  "name": "hearty salmon",
+  "game": "totk",
+  "commonLocations": [
+   "Hebra Mountains",
+   "Tabantha Frontier"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "extra hearts",
+  "heartsRecovered": 4
+ },
+ {
+  "id": 57,
+  "name": "chillfin trout",
+  "game": "totk",
+  "commonLocations": [
+   "Hebra Mountains",
+   "Lanayru Great Spring"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "heat resistance",
+  "heartsRecovered": 1
+ },
+ {
+  "id": 58,
+  "name": "sizzlefin trout",
+  "game": "totk",
+  "commonLocations": [
+   "Eldin Canyon",
+   "Hebra Mountains"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "cold resistance",
+  "heartsRecovered": 1
+ },
+ {
+  "id": 59,
+  "name": "voltfin trout",
+  "game": "totk",
+  "commonLocations": [
+   "Tabantha Frontier",
+   "Hyrule Ridge"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "shock resistance",
+  "heartsRecovered": 1
+ },
+ {
+  "id": 60,
+  "name": "stealthfin trout",
+  "game": "totk",
+  "commonLocations": [
+   "Great Hyrule Forest",
+   "Eldin Mountains"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "stealth up",
+  "heartsRecovered": 1
+ },
+ {
+  "id": 61,
+  "name": "mighty carp",
+  "game": "totk",
+  "commonLocations": [
+   "Akkala Highlands",
+   "Lanayru Great Spring"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "attack up",
+  "heartsRecovered": 1
+ },
+ {
+  "id": 62,
+  "name": "armored carp",
+  "game": "totk",
+  "commonLocations": [
+   "East Necluda",
+   "Lanayru Great Spring"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "defense up",
+  "heartsRecovered": 1
+ },
+ {
+  "id": 63,
+  "name": "sanke carp",
+  "game": "totk",
+  "commonLocations": [
+   "Kakariko Village"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "",
+  "heartsRecovered": 1
+ },
+ {
+  "id": 64,
+  "name": "ancient arowana",
+  "game": "totk",
+  "commonLocations": [
+   "Great Sky Island",
+   "North Tabantha Sky Archipelago"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "",
+  "heartsRecovered": 1
+ },
+ {
+  "id": 65,
+  "name": "glowing cave fish",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Caves"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "glow",
+  "heartsRecovered": 1
+ },
+ {
+  "id": 66,
+  "name": "mighty porgy",
+  "game": "totk",
+  "commonLocations": [
+   "Faron Sea",
+   "Necluda Sea"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "attack up",
+  "heartsRecovered": 1
+ },
+ {
+  "id": 67,
+  "name": "armored porgy",
+  "game": "totk",
+  "commonLocations": [
+   "Necluda Sea",
+   "Lanayru Sea"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "defense up",
+  "heartsRecovered": 1
+ },
+ {
+  "id": 68,
+  "name": "sneaky river snail",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Ridge",
+   "Zora's Domain"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "stealth up",
+  "heartsRecovered": 1
+ },
+ {
+  "id": 69,
+  "name": "razorclaw crab",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Sea",
+   "Necluda Sea"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "attack up",
+  "heartsRecovered": 1
+ },
+ {
+  "id": 70,
+  "name": "ironshell crab",
+  "game": "totk",
+  "commonLocations": [
+   "Necluda Sea",
+   "Faron Necluda"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "defense up",
+  "heartsRecovered": 1
+ },
+ {
+  "id": 71,
+  "name": "bright-eyed crab",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Wetlands",
+   "Eldin Great Spring"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "stamina recovery",
+  "heartsRecovered": 1
+ },
+ {
+  "id": 72,
+  "name": "fairy",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Caves",
+   "Hyrule Sky Islands"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "",
+  "heartsRecovered": 5
+ },
+ {
+  "id": 73,
+  "name": "winterwing butterfly",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Highlands",
+   "Mount Lanayru"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "heat resistance",
+  "heartsRecovered": 0
+ },
+ {
+  "id": 74,
+  "name": "summerwing butterfly",
+  "game": "totk",
+  "commonLocations": [
+   "Eldin Canyon",
+   "Gerudo Highlands"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "cold resistance",
+  "heartsRecovered": 0
+ },
+ {
+  "id": 75,
+  "name": "thunderwing butterfly",
+  "game": "totk",
+  "commonLocations": [
+   "Thunderhead Isles",
+   "Faron Grasslands"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "shock resistance",
+  "heartsRecovered": 0
+ },
+ {
+  "id": 76,
+  "name": "smotherwing butterfly",
+  "game": "totk",
+  "commonLocations": [
+   "Death Mountain",
+   "Eldin Canyon"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "flame guard",
+  "heartsRecovered": 0
+ },
+ {
+  "id": 77,
+  "name": "cold darner",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Highlands",
+   "Mount Lanayru"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "heat resistance",
+  "heartsRecovered": 0
+ },
+ {
+  "id": 78,
+  "name": "warm darner",
+  "game": "totk",
+  "commonLocations": [
+   "Akkala Highlands",
+   "Faron Grasslands"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "cold resistance",
+  "heartsRecovered": 0
+ },
+ {
+  "id": 79,
+  "name": "electric darner",
+  "game": "totk",
+  "commonLocations": [
+   "Thunderhead Isles",
+   "West Necluda"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "shock resistance",
+  "heartsRecovered": 0
+ },
+ {
+  "id": 80,
+  "name": "restless cricket",
+  "game": "totk",
+  "commonLocations": [
+   "Great Sky Island",
+   "East Necluda"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "stamina recovery",
+  "heartsRecovered": 0
+ },
+ {
+  "id": 81,
+  "name": "bladed rhino beetle",
+  "game": "totk",
+  "commonLocations": [
+   "West Necluda",
+   "East Necluda"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "attack up",
+  "heartsRecovered": 0
+ },
+ {
+  "id": 82,
+  "name": "rugged rhino beetle",
+  "game": "totk",
+  "commonLocations": [
+   "West Necluda",
+   "East Necluda"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "defense up",
+  "heartsRecovered": 0
+ },
+ {
+  "id": 83,
+  "name": "energetic rhino beetle",
+  "game": "totk",
+  "commonLocations": [
+   "Great Sky Island",
+   "West Necluda"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "stamina recovery",
+  "heartsRecovered": 0
+ },
+ {
+  "id": 84,
+  "name": "sunset firefly",
+  "game": "totk",
+  "commonLocations": [
+   "Faron Grasslands",
+   "East Necluda"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "stealth up",
+  "heartsRecovered": 0
+ },
+ {
+  "id": 85,
+  "name": "deep firefly",
+  "game": "totk",
+  "commonLocations": [
+   "Great Abandoned Central Mine",
+   "Lanayru Wetland Depths"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "stealth up",
+  "heartsRecovered": 0
+ },
+ {
+  "id": 86,
+  "name": "hot-footed frog",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Great Spring",
+   "East Necluda"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "speed up",
+  "heartsRecovered": 0
+ },
+ {
+  "id": 87,
+  "name": "tireless frog",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Zora River"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "extra stamina",
+  "heartsRecovered": 0
+ },
+ {
+  "id": 88,
+  "name": "sticky frog",
+  "game": "totk",
+  "commonLocations": [
+   "West Necluda",
+   "Lanayru Great Spring"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "slip resistance",
+  "heartsRecovered": 0
+ },
+ {
+  "id": 89,
+  "name": "hightail lizard",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Hyrule Ridge"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "speed up",
+  "heartsRecovered": 0
+ },
+ {
+  "id": 90,
+  "name": "hearty lizard",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert",
+   "East Necluda"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "extra hearts",
+  "heartsRecovered": 0
+ },
+ {
+  "id": 91,
+  "name": "fireproof lizard",
+  "game": "totk",
+  "commonLocations": [
+   "Eldin Canyon",
+   "Eldin Mountains"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "flame guard",
+  "heartsRecovered": 0
+ },
+ {
+  "id": 92,
+  "name": "sticky lizard",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Caves"
+  ],
+  "dlc": false,
+  "category": "creatures",
+  "edible": true,
+  "drops": [],
+  "cookingEffect": "slip resistance",
+  "heartsRecovered": 0
+ },
+ {
+  "id": 93,
+  "name": "chuchu",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "East Necluda"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "chuchu jelly"
+  ]
+ },
+ {
+  "id": 94,
+  "name": "fire chuchu",
+  "game": "totk",
+  "commonLocations": [
+   "Eldin Canyon",
+   "Eldin Mountains"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "red chuchu jelly"
+  ]
+ },
+ {
+  "id": 95,
+  "name": "ice chuchu",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Highlands",
+   "Hebra Mountains"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "white chuchu jelly"
+  ]
+ },
+ {
+  "id": 96,
+  "name": "electric chuchu",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert",
+   "West Necluda"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "yellow chuchu jelly"
+  ]
+ },
+ {
+  "id": 97,
+  "name": "keese",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "West Necluda"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "keese wing",
+   "keese eyeball"
+  ]
+ },
+ {
+  "id": 98,
+  "name": "fire keese",
+  "game": "totk",
+  "commonLocations": [
+   "Eldin Mountains",
+   "Eldin Mountains Depths"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "fire keese wing",
+   "fire keese eyeball"
+  ]
+ },
+ {
+  "id": 99,
+  "name": "ice keese",
+  "game": "totk",
+  "commonLocations": [
+   "Hebra Mountains",
+   "Mount Lanayru"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "ice keese wing",
+   "ice keese eyeball"
+  ]
+ },
+ {
+  "id": 100,
+  "name": "electric keese",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert",
+   "Gerudo Desert Depths"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "electric keese wing",
+   "electric keese eyeball"
+  ]
+ },
+ {
+  "id": 101,
+  "name": "water octorok",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Great Spring",
+   "West Necluda"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "octorok tentacle",
+   "octo balloon",
+   "octorok eyeball"
+  ]
+ },
+ {
+  "id": 102,
+  "name": "forest octorok",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Ridge",
+   "Deep Akkala"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "octorok tentacle",
+   "octo balloon",
+   "octorok eyeball"
+  ]
+ },
+ {
+  "id": 103,
+  "name": "rock octorok",
+  "game": "totk",
+  "commonLocations": [
+   "Eldin Canyon",
+   "Death Mountain"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "octorok tentacle",
+   "octo balloon",
+   "octorok eyeball"
+  ]
+ },
+ {
+  "id": 104,
+  "name": "snow octorok",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Highlands",
+   "Hebra Mountains"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "octorok tentacle",
+   "octo balloon",
+   "octorok eyeball"
+  ]
+ },
+ {
+  "id": 105,
+  "name": "treasure octorok",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Highlands",
+   "Faron Grasslands"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "octorok tentacle",
+   "octo balloon",
+   "octorok eyeball",
+   "green rupee",
+   "blue rupee",
+   "red rupee",
+   "purple rupee",
+   "silver rupee"
+  ]
+ },
+ {
+  "id": 106,
+  "name": "fire wizzrobe",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Eldin Canyon"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "none"
+  ]
+ },
+ {
+  "id": 107,
+  "name": "ice wizzrobe",
+  "game": "totk",
+  "commonLocations": [
+   "Tabantha Tundra",
+   "Hebra Mountains"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "none"
+  ]
+ },
+ {
+  "id": 108,
+  "name": "electric wizzrobe",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Great Spring",
+   "Tabantha Frontier"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "none"
+  ]
+ },
+ {
+  "id": 109,
+  "name": "meteo wizzrobe",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Highlands",
+   "Akkala Highlands"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "none"
+  ]
+ },
+ {
+  "id": 110,
+  "name": "blizzrobe",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Highlands"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "none"
+  ]
+ },
+ {
+  "id": 111,
+  "name": "thunder wizzrobe",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Great Spring",
+   "East Necluda"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "none"
+  ]
+ },
+ {
+  "id": 112,
+  "name": "like like",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "East Necluda"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "like like stonearrow x5"
+  ]
+ },
+ {
+  "id": 113,
+  "name": "fire like",
+  "game": "totk",
+  "commonLocations": [
+   "Eldin Mountains",
+   "Eldin Mountains Depths"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "fire like stonefire fruitarrow x5"
+  ]
+ },
+ {
+  "id": 114,
+  "name": "ice like",
+  "game": "totk",
+  "commonLocations": [
+   "Mount Lanayru",
+   "Gerudo Highlands"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "ice like stoneice fruitarrow x5"
+  ]
+ },
+ {
+  "id": 115,
+  "name": "shock like",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "East Necluda"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "shock like stoneshock fruitarrow x5"
+  ]
+ },
+ {
+  "id": 116,
+  "name": "rock like",
+  "game": "totk",
+  "commonLocations": [
+   "Eldin Mountains",
+   "Lanayru Wetlands"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "like like stonearrow x5"
+  ]
+ },
+ {
+  "id": 117,
+  "name": "evermean",
+  "game": "totk",
+  "commonLocations": [
+   "Great Hyrule Forest",
+   "Hyrule Field"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "energetic rhino beetlebladed rhino beetlerugged rhino beetleacornhightail lizardsturdy thick stickchickaloo tree nutmonster extractkorok frondgolden apple"
+  ]
+ },
+ {
+  "id": 118,
+  "name": "aerocuda",
+  "game": "totk",
+  "commonLocations": [
+   "Greater Hyrule"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "aerocuda wing",
+   "aerocuda eyeball"
+  ]
+ },
+ {
+  "id": 119,
+  "name": "gibdo",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert",
+   "Gerudo Desert Depths"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "gibdo guts",
+   "gibdo bone"
+  ]
+ },
+ {
+  "id": 120,
+  "name": "moth gibdo",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert",
+   "Gerudo Desert Depths"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "gibdo wing",
+   "gibdo guts",
+   "gibdo bone"
+  ]
+ },
+ {
+  "id": 121,
+  "name": "bokoblin",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Central Hyrule Depths"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "bokoblin horn",
+   "bokoblin fang"
+  ]
+ },
+ {
+  "id": 122,
+  "name": "blue bokoblin",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Eldin Canyon"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "blue bokoblin horn",
+   "bokoblin fang",
+   "bokoblin guts"
+  ]
+ },
+ {
+  "id": 123,
+  "name": "black bokoblin",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert",
+   "Hyrule Ridge Depths"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "black bokoblin horn",
+   "bokoblin fang",
+   "bokoblin guts"
+  ]
+ },
+ {
+  "id": 124,
+  "name": "stalkoblin",
+  "game": "totk",
+  "commonLocations": [
+   "Great Hyrule Forest",
+   "Gerudo Desert Depths"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "bokoblin horn",
+   "bokoblin fang"
+  ]
+ },
+ {
+  "id": 125,
+  "name": "silver bokoblin",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "silver bokoblin horn",
+   "bokoblin fang",
+   "bokoblin guts"
+  ]
+ },
+ {
+  "id": 126,
+  "name": "boss bokoblin",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Hyrule Ridge"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "boss bokoblin horn",
+   "boss bokoblin fang"
+  ]
+ },
+ {
+  "id": 127,
+  "name": "blue boss bokoblin",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Lanayru Great Spring"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "blue boss bokoblin horn",
+   "boss bokoblin guts",
+   "boss bokoblin fang"
+  ]
+ },
+ {
+  "id": 128,
+  "name": "black boss bokoblin",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "East Necluda"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "black boss bokoblin horn",
+   "boss bokoblin fang",
+   "boss bokoblin guts"
+  ]
+ },
+ {
+  "id": 129,
+  "name": "silver boss bokoblin",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "silver boss bokoblin horn",
+   "boss bokoblin guts",
+   "boss bokoblin fang"
+  ]
+ },
+ {
+  "id": 130,
+  "name": "moblin",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Central Hyrule Depths"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "moblin horn",
+   "moblin fang"
+  ]
+ },
+ {
+  "id": 131,
+  "name": "blue moblin",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Eldin Canyon"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "blue moblin horn",
+   "moblin fang",
+   "moblin guts"
+  ]
+ },
+ {
+  "id": 132,
+  "name": "black moblin",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Highlands",
+   "Deep Akkala"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "black moblin horn",
+   "moblin fang",
+   "moblin guts"
+  ]
+ },
+ {
+  "id": 133,
+  "name": "stalmoblin",
+  "game": "totk",
+  "commonLocations": [
+   "Great Hyrule Forest",
+   "Deep Akkala Depths"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "moblin horn",
+   "moblin fang"
+  ]
+ },
+ {
+  "id": 134,
+  "name": "silver moblin",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "silver moblin horn",
+   "moblin fang",
+   "moblin guts"
+  ]
+ },
+ {
+  "id": 135,
+  "name": "lizalfos",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Wetlands",
+   "Lanayru Great Spring"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "lizalfos horn",
+   "lizalfos tail",
+   "lizalfos talon"
+  ]
+ },
+ {
+  "id": 136,
+  "name": "blue lizalfos",
+  "game": "totk",
+  "commonLocations": [
+   "Mount Lanayru",
+   "Akkala Highlands"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "blue lizalfos horn",
+   "blue lizalfos tail",
+   "lizalfos talon"
+  ]
+ },
+ {
+  "id": 137,
+  "name": "black lizalfos",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert",
+   "East Necluda"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "lizalfos talon",
+   "black lizalfos tail",
+   "black lizalfos horn"
+  ]
+ },
+ {
+  "id": 138,
+  "name": "stalizalfos",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Wetlands",
+   "Lanayru Great Spring"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "lizalfos horn",
+   "lizalfos talon"
+  ]
+ },
+ {
+  "id": 139,
+  "name": "fire-breath lizalfos",
+  "game": "totk",
+  "commonLocations": [
+   "Eldin Canyon",
+   "Gerudo Highlands"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "fire-breath lizalfos tail",
+   "fire-breath lizalfos horn",
+   "lizalfos talon"
+  ]
+ },
+ {
+  "id": 140,
+  "name": "ice-breath lizalfos",
+  "game": "totk",
+  "commonLocations": [
+   "Hebra Mountains",
+   "Gerudo Highlands"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "lizalfos talon",
+   "ice-breath lizalfos tail",
+   "ice-breath lizalfos horn"
+  ]
+ },
+ {
+  "id": 141,
+  "name": "electric lizalfos",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert",
+   "Faron"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "electric lizalfos horn",
+   "lizalfos talon",
+   "electric lizalfos tail"
+  ]
+ },
+ {
+  "id": 142,
+  "name": "silver lizalfos",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "silver lizalfos tail",
+   "silver lizalfos horn",
+   "lizalfos talon"
+  ]
+ },
+ {
+  "id": 143,
+  "name": "horriblin",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Caves",
+   "Eldin Canyon Depths"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "horriblin horn",
+   "horriblin claw"
+  ]
+ },
+ {
+  "id": 144,
+  "name": "blue horriblin",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Caves",
+   "Death Mountain Depths"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "blue horriblin horn",
+   "horriblin guts",
+   "horriblin claw"
+  ]
+ },
+ {
+  "id": 145,
+  "name": "black horriblin",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Caves",
+   "Gerudo Desert Depths"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "black horriblin horn",
+   "horriblin claw",
+   "horriblin horn"
+  ]
+ },
+ {
+  "id": 146,
+  "name": "silver horriblin",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "horriblin claw",
+   "horriblin guts",
+   "silver horriblin horn"
+  ]
+ },
+ {
+  "id": 147,
+  "name": "lynel",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Central Hyrule Depths"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "lynel saber horn",
+   "lynel mace horn",
+   "lynel hoof",
+   "arrow x10"
+  ]
+ },
+ {
+  "id": 148,
+  "name": "blue-maned lynel",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Great Spring",
+   "Eldin Canyon Depths"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "blue-maned lynel saber horn",
+   "blue-maned lynel mace horn",
+   "lynel guts",
+   "lynel hoof",
+   "arrow x10"
+  ]
+ },
+ {
+  "id": 149,
+  "name": "white-maned lynel",
+  "game": "totk",
+  "commonLocations": [
+   "Faron Grasslands Depths",
+   "Central Hyrule Depths"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "white-maned lynel mace horn",
+   "white-maned lynel saber horn",
+   "lynel hoof",
+   "lynel guts",
+   "arrow x10"
+  ]
+ },
+ {
+  "id": 150,
+  "name": "silver lynel",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "silver lynel saber horn",
+   "silver lynel mace horn",
+   "lynel hoof",
+   "lynel guts",
+   "arrow x10"
+  ]
+ },
+ {
+  "id": 151,
+  "name": "soldier construct i",
+  "game": "totk",
+  "commonLocations": [
+   "Great Sky Island",
+   "North Gerudo Sky Archipelago"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "zonai charge",
+   "soldier construct i horn"
+  ]
+ },
+ {
+  "id": 152,
+  "name": "soldier construct ii",
+  "game": "totk",
+  "commonLocations": [
+   "Hebra Mountains"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "soldier construct ii horn",
+   "zonai charge"
+  ]
+ },
+ {
+  "id": 153,
+  "name": "soldier construct iii",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Sky Archipelago",
+   "Thunderhead Isles"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "zonai charge",
+   "soldier construct iii horn"
+  ]
+ },
+ {
+  "id": 154,
+  "name": "soldier construct iv",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "soldier construct iv horn",
+   "zonai charge"
+  ]
+ },
+ {
+  "id": 155,
+  "name": "captain construct i",
+  "game": "totk",
+  "commonLocations": [
+   "Great Sky Island",
+   "Rising Island Chain"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "captain construct i horn",
+   "zonai charge"
+  ]
+ },
+ {
+  "id": 156,
+  "name": "captain construct ii",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Sky Archipelago",
+   "West Necluda"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "captain construct ii horn",
+   "zonai charge"
+  ]
+ },
+ {
+  "id": 157,
+  "name": "captain construct iii",
+  "game": "totk",
+  "commonLocations": [
+   "Thyphlo Ruins"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "zonai charge",
+   "captain construct iii horn"
+  ]
+ },
+ {
+  "id": 158,
+  "name": "captain construct iv",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "captain construct iv horn",
+   "zonai charge"
+  ]
+ },
+ {
+  "id": 159,
+  "name": "training construct",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "zonai charge"
+  ]
+ },
+ {
+  "id": 160,
+  "name": "flux construct i",
+  "game": "totk",
+  "commonLocations": [
+   "West Hebra Sky Archipelago",
+   "Gerudo Highlands Depths"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "zonai charge",
+   "large zonai charge"
+  ]
+ },
+ {
+  "id": 161,
+  "name": "flux construct ii",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Sky Archipelago",
+   "Mount Lanayru Depths"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "zonai charge",
+   "large zonai charge"
+  ]
+ },
+ {
+  "id": 162,
+  "name": "flux construct iii",
+  "game": "totk",
+  "commonLocations": [
+   "North Akkala Sky Archipelago"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "zonai charge",
+   "large zonai charge"
+  ]
+ },
+ {
+  "id": 163,
+  "name": "yiga footsoldier",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "eightfold blade",
+   "mighty bananas",
+   "green rupee",
+   "blue rupee",
+   "red rupee",
+   "purple rupee"
+  ]
+ },
+ {
+  "id": 164,
+  "name": "yiga blademaster",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "eightfold longblade",
+   "mighty bananas",
+   "green rupee",
+   "blue rupee",
+   "red rupee",
+   "purple rupee"
+  ]
+ },
+ {
+  "id": 165,
+  "name": "master kohga",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "monsters",
+  "drops": []
+ },
+ {
+  "id": 166,
+  "name": "stone pebblit",
+  "game": "totk",
+  "commonLocations": [
+   "Greater Hyrule"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "flint",
+   "amber"
+  ]
+ },
+ {
+  "id": 167,
+  "name": "igneo pebblit",
+  "game": "totk",
+  "commonLocations": [
+   "Eldin Canyon",
+   "Eldin Canyon Depths"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "amber"
+  ]
+ },
+ {
+  "id": 168,
+  "name": "frost pebblit",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Highlands",
+   "Hebra Mountains"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "amber",
+   "sapphire",
+   "flint"
+  ]
+ },
+ {
+  "id": 169,
+  "name": "stone talus",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Highlands Depths",
+   "Tabantha Frontier"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "ruby",
+   "amber",
+   "opal",
+   "flint"
+  ]
+ },
+ {
+  "id": 170,
+  "name": "stone talus (luminous)",
+  "game": "totk",
+  "commonLocations": [
+   "Tabantha Frontier",
+   "Lanayru Great Spring"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "diamond",
+   "topaz",
+   "opal",
+   "amber",
+   "luminous stone",
+   "flint"
+  ]
+ },
+ {
+  "id": 171,
+  "name": "stone talus (rare)",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Highlands",
+   "Faron Grasslands"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "ruby",
+   "diamond",
+   "sapphire",
+   "opal",
+   "topaz",
+   "amber",
+   "flint"
+  ]
+ },
+ {
+  "id": 172,
+  "name": "battle talus",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Tabantha Frontier Depths"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "ruby",
+   "opal",
+   "amber",
+   "flint"
+  ]
+ },
+ {
+  "id": 173,
+  "name": "igneo talus",
+  "game": "totk",
+  "commonLocations": [
+   "Eldin Canyon",
+   "Eldin Canyon Depths"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "amber",
+   "ruby",
+   "flint",
+   "diamond"
+  ]
+ },
+ {
+  "id": 174,
+  "name": "frost talus",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Highlands",
+   "Hebra Mountains"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "diamond",
+   "sapphire",
+   "opal",
+   "flint"
+  ]
+ },
+ {
+  "id": 175,
+  "name": "hinox",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Ridge",
+   "West Necluda"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "hinox toenail",
+   "hinox tooth",
+   "hinox guts",
+   "hinox horn",
+   "palm fruit",
+   "apple",
+   "wildberry",
+   "mighty banana",
+   "fortified pumpkin",
+   "voltfruit"
+  ]
+ },
+ {
+  "id": 176,
+  "name": "blue hinox",
+  "game": "totk",
+  "commonLocations": [
+   "East Necluda Depths",
+   "West Necluda"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "hinox tooth",
+   "hinox toenail",
+   "blue hinox horn",
+   "hinox guts",
+   "roasted bass",
+   "roasted hearty bass",
+   "roasted trout",
+   "roasted hearty salmon",
+   "roasted carp",
+   "roasted porgy",
+   "sneaky river escargot",
+   "blackened crab"
+  ]
+ },
+ {
+  "id": 177,
+  "name": "black hinox",
+  "game": "totk",
+  "commonLocations": [
+   "East Necluda",
+   "West Necluda Depths"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "hinox toenail",
+   "hinox tooth",
+   "black hinox horn",
+   "hinox guts",
+   "seared steak",
+   "roasted bird drumstick",
+   "seared prime steak",
+   "roasted bird thigh",
+   "seared gourmet steak",
+   "roasted whole bird"
+  ]
+ },
+ {
+  "id": 178,
+  "name": "stalnox",
+  "game": "totk",
+  "commonLocations": [
+   "East Necluda",
+   "West Necluda Depths"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "stalnox horn",
+   "hinox tooth"
+  ]
+ },
+ {
+  "id": 179,
+  "name": "molduga",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "molduga guts",
+   "molduga fin",
+   "molduga jaw"
+  ]
+ },
+ {
+  "id": 180,
+  "name": "flame gleeok",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Ridge",
+   "Eldin Canyon"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "gleeok flame horn",
+   "gleeok wing",
+   "gleeok guts"
+  ]
+ },
+ {
+  "id": 181,
+  "name": "frost gleeok",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Highlands",
+   "Hebra Mountains"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "gleeok frost horn",
+   "gleeok guts",
+   "gleeok wing"
+  ]
+ },
+ {
+  "id": 182,
+  "name": "thunder gleeok",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Faron Grasslands"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "gleeok wing",
+   "gleeok thunder horn",
+   "gleeok guts"
+  ]
+ },
+ {
+  "id": 183,
+  "name": "king gleeok",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert Sky",
+   "Necluda Sea Sky"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "gleeok frost horn",
+   "gleeok thunder horn",
+   "gleeok flame horn",
+   "gleeok wing",
+   "gleeok guts"
+  ]
+ },
+ {
+  "id": 184,
+  "name": "little frox",
+  "game": "totk",
+  "commonLocations": [
+   "The Depths"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "giant brightbloom seed",
+   "zonaite",
+   "brightbloom seed"
+  ]
+ },
+ {
+  "id": 185,
+  "name": "frox",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Highlands Depths",
+   "Central Hyrule Depths"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "large crystallized charge",
+   "frox fang",
+   "frox fingernail",
+   "frox guts",
+   "zonaite",
+   "large zonaite"
+  ]
+ },
+ {
+  "id": 186,
+  "name": "obsidian frox",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert Depths",
+   "Hyrule Ridge Depths"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "large crystallized charge",
+   "obsidian frox fang",
+   "frox fingernail",
+   "frox guts",
+   "zonaite",
+   "large zonaite"
+  ]
+ },
+ {
+  "id": 187,
+  "name": "blue-white frox",
+  "game": "totk",
+  "commonLocations": [
+   "Hebra Mountains Depths",
+   "Tabantha Frontier Depths"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "large crystallized charge",
+   "blue-white frox fang",
+   "frox fingernail",
+   "frox guts",
+   "zonaite",
+   "large zonaite"
+  ]
+ },
+ {
+  "id": 188,
+  "name": "dinraal",
+  "game": "totk",
+  "commonLocations": [
+   "Eldin Mountains",
+   "Deep Akkala"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "dinraal's claw",
+   "dinraal's scale",
+   "shard of dinraal's spike",
+   "shard of dinraal's fang",
+   "dinraal's horn"
+  ]
+ },
+ {
+  "id": 189,
+  "name": "naydra",
+  "game": "totk",
+  "commonLocations": [
+   "East Necluda",
+   "Mount Lanayru"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "naydra's scale",
+   "shard of naydra's spike",
+   "naydra's horn",
+   "naydra's claw",
+   "shard of naydra's fang"
+  ]
+ },
+ {
+  "id": 190,
+  "name": "farosh",
+  "game": "totk",
+  "commonLocations": [
+   "Lake Hylia",
+   "Gerudo Canyon"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "shard of farosh's spike",
+   "farosh's claw",
+   "farosh's scale",
+   "shard of farosh's fang",
+   "farosh's horn"
+  ]
+ },
+ {
+  "id": 191,
+  "name": "colgera",
+  "game": "totk",
+  "commonLocations": [
+   "Wind Temple"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": []
+ },
+ {
+  "id": 192,
+  "name": "moragia",
+  "game": "totk",
+  "commonLocations": [
+   "Death Mountain"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": []
+ },
+ {
+  "id": 193,
+  "name": "marbled gohma",
+  "game": "totk",
+  "commonLocations": [
+   "Fire Temple"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": []
+ },
+ {
+  "id": 194,
+  "name": "sludge like",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Great Spring"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": []
+ },
+ {
+  "id": 195,
+  "name": "mucktorok",
+  "game": "totk",
+  "commonLocations": [
+   "Water Temple"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": []
+ },
+ {
+  "id": 196,
+  "name": "queen gibdo",
+  "game": "totk",
+  "commonLocations": [
+   "Lightning Temple"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": []
+ },
+ {
+  "id": 197,
+  "name": "seized construct",
+  "game": "totk",
+  "commonLocations": [
+   "Spirit Temple"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": []
+ },
+ {
+  "id": 198,
+  "name": "phantom ganon",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "monsters",
+  "drops": [
+   "dark clump"
+  ]
+ },
+ {
+  "id": 199,
+  "name": "demon king ganondorf",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "monsters",
+  "drops": []
+ },
+ {
+  "id": 200,
+  "name": "demon king ganondorf (2nd form)",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "monsters",
+  "drops": []
+ },
+ {
+  "id": 201,
+  "name": "demon dragon",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "monsters",
+  "drops": []
+ },
+ {
+  "id": 202,
+  "name": "light dragon",
+  "game": "totk",
+  "commonLocations": [
+   "Greater Hyrule"
+  ],
+  "dlc": false,
+  "category": "monsters",
+  "drops": []
+ },
+ {
+  "id": 203,
+  "name": "apple",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Hyrule Ridge"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "",
+  "heartsRecovered": 0.5,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 204,
+  "name": "golden apple",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Hyrule Ridge"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:20",
+  "heartsRecovered": 1.5,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 205,
+  "name": "palm fruit",
+  "game": "totk",
+  "commonLocations": [
+   "East Necluda",
+   "Gerudo Desert"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "",
+  "heartsRecovered": 1,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 206,
+  "name": "wildberry",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Highlands",
+   "Hebra Mountains"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "",
+  "heartsRecovered": 0.5,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 207,
+  "name": "hylian tomato",
+  "game": "totk",
+  "commonLocations": [
+   "East Necluda",
+   "West Necluda"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "",
+  "heartsRecovered": 1,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 208,
+  "name": "hydromelon",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "heat resistance",
+  "heartsRecovered": 0.5,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 209,
+  "name": "spicy pepper",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Gerudo Desert"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "cold resistance",
+  "heartsRecovered": 0.5,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 210,
+  "name": "voltfruit",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "sock resistance",
+  "heartsRecovered": 0.5,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 211,
+  "name": "fleet-lotus seeds",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Great Spring"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "speed up",
+  "heartsRecovered": 0.5,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 212,
+  "name": "mighty bananas",
+  "game": "totk",
+  "commonLocations": [
+   "Lake Floria",
+   "Eventide Island"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "attack up",
+  "heartsRecovered": 0.5,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 213,
+  "name": "fire fruit",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Eldin Canyon"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "hot weather attack",
+  "heartsRecovered": 0.25,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 214,
+  "name": "ice fruit",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Highlands",
+   "Hebra Mountains"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "cold weather attack",
+  "heartsRecovered": 0.25,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 215,
+  "name": "splash fruit",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Great Spring",
+   "West Necluda"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "swim speed up",
+  "heartsRecovered": 0.25,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 216,
+  "name": "shock fruit",
+  "game": "totk",
+  "commonLocations": [
+   "East Necluda",
+   "Gerudo Desert"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "stormy weather attack",
+  "heartsRecovered": 0.25,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 217,
+  "name": "dazzlefruit",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Gerudo Highlands"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "",
+  "heartsRecovered": 0.25,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 218,
+  "name": "hylian shroom",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Hyrule Ridge"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "",
+  "heartsRecovered": 0.5,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 219,
+  "name": "skyshroom",
+  "game": "totk",
+  "commonLocations": [
+   "Great Sky Island",
+   "Thunderhead Isles"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "",
+  "heartsRecovered": 0.25,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 220,
+  "name": "endura shroom",
+  "game": "totk",
+  "commonLocations": [
+   "North Tabantha Sky Archipelago",
+   "North Necluda Sky Archipelago"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "extra stamina",
+  "heartsRecovered": 1,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 221,
+  "name": "stamella shroom",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Great Spring",
+   "West Necluda"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "stamina recovery",
+  "heartsRecovered": 0.5,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 222,
+  "name": "hearty truffle",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "West Necluda"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "extra hearts",
+  "heartsRecovered": 2,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 223,
+  "name": "big hearty truffle",
+  "game": "totk",
+  "commonLocations": [
+   "East Necluda",
+   "Gerudo Desert"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "extra hearts",
+  "heartsRecovered": 3,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 224,
+  "name": "chillshroom",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Highlands",
+   "Hebra Mountains"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "heat resistance",
+  "heartsRecovered": 0.5,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 225,
+  "name": "sunshroom",
+  "game": "totk",
+  "commonLocations": [
+   "Eldin Canyon",
+   "Gerudo Highlands"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "cold resistance",
+  "heartsRecovered": 0.5,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 226,
+  "name": "zapshroom",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert",
+   "Lanayru Wetlands"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "shock resistance",
+  "heartsRecovered": 0.5,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 227,
+  "name": "rushroom",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Highlands",
+   "Tabantha Frontier"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "speed up",
+  "heartsRecovered": 0.5,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 228,
+  "name": "razorshroom",
+  "game": "totk",
+  "commonLocations": [
+   "Great Hyrule Forest",
+   "Tabantha Frontier"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "attack up",
+  "heartsRecovered": 0.5,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 229,
+  "name": "ironshroom",
+  "game": "totk",
+  "commonLocations": [
+   "East Necluda",
+   "West Necluda"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "defense up",
+  "heartsRecovered": 0.5,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 230,
+  "name": "silent shroom",
+  "game": "totk",
+  "commonLocations": [
+   "Akkala Highlands",
+   "West Necluda"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "stealth up",
+  "heartsRecovered": 0.5,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 231,
+  "name": "brightcap",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Caves"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "glow",
+  "heartsRecovered": 0.5,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 232,
+  "name": "puffshroom",
+  "game": "totk",
+  "commonLocations": [
+   "The Depths"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 233,
+  "name": "hyrule herb",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Hyrule Ridge"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "",
+  "heartsRecovered": 1,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 234,
+  "name": "stambulb",
+  "game": "totk",
+  "commonLocations": [
+   "Great Sky Island",
+   "Thunderhead Isles"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "stamina recovery",
+  "heartsRecovered": 0.5,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 235,
+  "name": "hearty radish",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Sky Archipelago",
+   "South Lanayru Sky Archipelago"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "extra hearts",
+  "heartsRecovered": 2.5,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 236,
+  "name": "big hearty radish",
+  "game": "totk",
+  "commonLocations": [
+   "Thunderhead Isles",
+   "North Necluda Sky Archipelago"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "extra hearts",
+  "heartsRecovered": 4,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 237,
+  "name": "cool safflina",
+  "game": "totk",
+  "commonLocations": [
+   "Hebra Mountains",
+   "Tabantha Frontier"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "heat resistance",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 238,
+  "name": "warm safflina",
+  "game": "totk",
+  "commonLocations": [
+   "Eldin Canyon",
+   "Gerudo Desert"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "cold resistance",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 239,
+  "name": "electric safflina",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert",
+   "Hyrule Ridge"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "shock resistance",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 240,
+  "name": "swift carrot",
+  "game": "totk",
+  "commonLocations": [
+   "Kakariko Village",
+   "Hateno Village"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "speed up",
+  "heartsRecovered": 0.5,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 241,
+  "name": "endura carrot",
+  "game": "totk",
+  "commonLocations": [
+   "East Necluda",
+   "Hyrule Ridge"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "extra stamina",
+  "heartsRecovered": 2,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 242,
+  "name": "fortified pumpkin",
+  "game": "totk",
+  "commonLocations": [
+   "Kakariko Village",
+   "Hateno Village"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "defense up",
+  "heartsRecovered": 0.5,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 243,
+  "name": "sun pumpkin",
+  "game": "totk",
+  "commonLocations": [
+   "Hateno Village"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "gloom recovery",
+  "heartsRecovered": 0.5,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 244,
+  "name": "swift violet",
+  "game": "totk",
+  "commonLocations": [
+   "Hebra Mountains",
+   "Tabantha Frontier"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "speed up",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 245,
+  "name": "mighty thistle",
+  "game": "totk",
+  "commonLocations": [
+   "East Necluda",
+   "Faron Grasslands"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "attack up",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 246,
+  "name": "armoranth",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Ridge",
+   "Akkala Highlands"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "defense up",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 247,
+  "name": "blue nightshade",
+  "game": "totk",
+  "commonLocations": [
+   "Great Hyrule Forest",
+   "West Necluda"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "stealth up",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 248,
+  "name": "sundelion",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Eldin Canyon"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "gloom recovery",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 249,
+  "name": "brightbloom seed",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Caves"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 250,
+  "name": "giant brightbloom seed",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Caves"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 251,
+  "name": "muddle bud",
+  "game": "totk",
+  "commonLocations": [
+   "The Depths"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 252,
+  "name": "bomb flower",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Caves",
+   "The Depths"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 253,
+  "name": "silent princess",
+  "game": "totk",
+  "commonLocations": [
+   "Akkala Highlands",
+   "Hyrule Ridge"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "stealth up",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 254,
+  "name": "courser bee honey",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "East Necluda"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "stamina recovery",
+  "heartsRecovered": 2,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 255,
+  "name": "hylian pine cone",
+  "game": "totk",
+  "commonLocations": [
+   "Hebra Mountains",
+   "Lanayru Great Spring"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 256,
+  "name": "korok frond",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Lanayru Great Spring"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "",
+  "heartsRecovered": 0.25,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 257,
+  "name": "chuchu jelly",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "East Necluda"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 258,
+  "name": "red chuchu jelly",
+  "game": "totk",
+  "commonLocations": [
+   "Eldin Canyon",
+   "Eldin Mountains"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +01:20",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 259,
+  "name": "white chuchu jelly",
+  "game": "totk",
+  "commonLocations": [
+   "Hebra Mountains",
+   "Gerudo Highlands"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +01:20",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 260,
+  "name": "yellow chuchu jelly",
+  "game": "totk",
+  "commonLocations": [
+   "West Necluda",
+   "Gerudo Desert"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +01:20",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 261,
+  "name": "keese eyeball",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "West Necluda"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +01:20",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 1
+ },
+ {
+  "id": 262,
+  "name": "fire keese eyeball",
+  "game": "totk",
+  "commonLocations": [
+   "Eldin Mountains",
+   "Eldin Mountains Depths"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +01:20",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 8
+ },
+ {
+  "id": 263,
+  "name": "ice keese eyeball",
+  "game": "totk",
+  "commonLocations": [
+   "Hebra Mountains",
+   "Mount Lanayru"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +01:20",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 4
+ },
+ {
+  "id": 264,
+  "name": "electric keese eyeball",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert",
+   "Gerudo Desert Depths"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +01:20",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 6
+ },
+ {
+  "id": 265,
+  "name": "like like stone",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Eldin Mountains"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +01:20",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 4
+ },
+ {
+  "id": 266,
+  "name": "fire like stone",
+  "game": "totk",
+  "commonLocations": [
+   "Eldin Mountains",
+   "Eldin Mountains Depths"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +01:20",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 12
+ },
+ {
+  "id": 267,
+  "name": "ice like stone",
+  "game": "totk",
+  "commonLocations": [
+   "Mount Lanayru",
+   "Gerudo Highlands"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +01:20",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 12
+ },
+ {
+  "id": 268,
+  "name": "shock like stone",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "East Necluda"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +01:20",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 12
+ },
+ {
+  "id": 269,
+  "name": "aerocuda eyeball",
+  "game": "totk",
+  "commonLocations": [
+   "Greater Hyrule"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +01:20",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 4
+ },
+ {
+  "id": 270,
+  "name": "gibdo bone",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert",
+   "Gerudo Desert Depths"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 40
+ },
+ {
+  "id": 271,
+  "name": "bokoblin horn",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Central Hyrule Depths"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 4
+ },
+ {
+  "id": 272,
+  "name": "blue bokoblin horn",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Eldin Canyon"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 7
+ },
+ {
+  "id": 273,
+  "name": "black bokoblin horn",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert",
+   "Hyrule Ridge Depths"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 17
+ },
+ {
+  "id": 274,
+  "name": "silver bokoblin horn",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 31
+ },
+ {
+  "id": 275,
+  "name": "boss bokoblin horn",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Hyrule Ridge"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 10
+ },
+ {
+  "id": 276,
+  "name": "blue boss bokoblin horn",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Lanayru Great Spring"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 16
+ },
+ {
+  "id": 277,
+  "name": "black boss bokoblin horn",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "East Necluda"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 27
+ },
+ {
+  "id": 278,
+  "name": "silver boss bokoblin horn",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 37
+ },
+ {
+  "id": 279,
+  "name": "moblin horn",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Central Hyrule Depths"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 6
+ },
+ {
+  "id": 280,
+  "name": "blue moblin horn",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Eldin Canyon"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 13
+ },
+ {
+  "id": 281,
+  "name": "black moblin horn",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Highlands",
+   "Deep Akkala"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 24
+ },
+ {
+  "id": 282,
+  "name": "silver moblin horn",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 33
+ },
+ {
+  "id": 283,
+  "name": "lizalfos horn",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Wetlands",
+   "Lanayru Great Spring"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 8
+ },
+ {
+  "id": 284,
+  "name": "blue lizalfos horn",
+  "game": "totk",
+  "commonLocations": [
+   "Mount Lanayru",
+   "Akkala Highlands Depths"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 16
+ },
+ {
+  "id": 285,
+  "name": "black lizalfos horn",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert",
+   "East Necluda"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 26
+ },
+ {
+  "id": 286,
+  "name": "fire-breath lizalfos horn",
+  "game": "totk",
+  "commonLocations": [
+   "Eldin Canyon",
+   "Gerudo Highlands"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 15
+ },
+ {
+  "id": 287,
+  "name": "ice-breath lizalfos horn",
+  "game": "totk",
+  "commonLocations": [
+   "Hebra Mountains",
+   "Gerudo Highlands"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 15
+ },
+ {
+  "id": 288,
+  "name": "electric lizalfos horn",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert",
+   "Faron"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 15
+ },
+ {
+  "id": 289,
+  "name": "silver lizalfos horn",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 34
+ },
+ {
+  "id": 290,
+  "name": "horriblin horn",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Caves",
+   "Eldin Canyon Depths"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 5
+ },
+ {
+  "id": 291,
+  "name": "blue horriblin horn",
+  "game": "totk",
+  "commonLocations": [
+   "Death Mountain",
+   "Death Mountain Depths"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 11
+ },
+ {
+  "id": 292,
+  "name": "black horriblin horn",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Caves",
+   "Gerudo Desert Depths"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 22
+ },
+ {
+  "id": 293,
+  "name": "silver horriblin horn",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 5
+ },
+ {
+  "id": 294,
+  "name": "lynel saber horn",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Central Hyrule Depths"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 22
+ },
+ {
+  "id": 295,
+  "name": "lynel mace horn",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Central Hyrule Depths"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 18
+ },
+ {
+  "id": 296,
+  "name": "blue-maned lynel saber horn",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Great Spring",
+   "Eldin Canyon Depths"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 33
+ },
+ {
+  "id": 297,
+  "name": "blue-maned lynel mace horn",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Great Spring",
+   "Eldin Canyon Depths"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 29
+ },
+ {
+  "id": 298,
+  "name": "white-maned lynel saber horn",
+  "game": "totk",
+  "commonLocations": [
+   "Faron Grasslands Depths",
+   "Central Hyrule Depths"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 44
+ },
+ {
+  "id": 299,
+  "name": "white-maned lynel mace horn",
+  "game": "totk",
+  "commonLocations": [
+   "Faron Grasslands Depths",
+   "Central Hyrule Depths"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 40
+ },
+ {
+  "id": 300,
+  "name": "silver lynel saber horn",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 55
+ },
+ {
+  "id": 301,
+  "name": "silver lynel mace horn",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 51
+ },
+ {
+  "id": 302,
+  "name": "soldier construct horn",
+  "game": "totk",
+  "commonLocations": [
+   "Great Sky Island",
+   "North Gerudo Sky Archipelago"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 3
+ },
+ {
+  "id": 303,
+  "name": "soldier construct ii horn",
+  "game": "totk",
+  "commonLocations": [
+   "Hebra Mountains",
+   "Rising Island Chain"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 8
+ },
+ {
+  "id": 304,
+  "name": "soldier construct iii horn",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Sky Archipelago",
+   "Thunderhead Isles"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 18
+ },
+ {
+  "id": 305,
+  "name": "soldier construct iv horn",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 24
+ },
+ {
+  "id": 306,
+  "name": "captain construct i horn",
+  "game": "totk",
+  "commonLocations": [
+   "Great Sky Island",
+   "Rising Island Chain"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 5
+ },
+ {
+  "id": 307,
+  "name": "captain construct ii horn",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Sky Archipelago",
+   "West Necluda"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 15
+ },
+ {
+  "id": 308,
+  "name": "captain construct iii horn",
+  "game": "totk",
+  "commonLocations": [
+   "Thyphlo Ruins",
+   "Lanayru Sky Archipelago"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 25
+ },
+ {
+  "id": 309,
+  "name": "captain construct iv horn",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 35
+ },
+ {
+  "id": 310,
+  "name": "hinox horn",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Ridge",
+   "West Necluda"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 12
+ },
+ {
+  "id": 311,
+  "name": "blue hinox horn",
+  "game": "totk",
+  "commonLocations": [
+   "East Necluda Depths",
+   "West Necluda"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 19
+ },
+ {
+  "id": 312,
+  "name": "black hinox horn",
+  "game": "totk",
+  "commonLocations": [
+   "East Necluda",
+   "West Necluda Depths"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 27
+ },
+ {
+  "id": 313,
+  "name": "stalnox horn",
+  "game": "totk",
+  "commonLocations": [
+   "East Necluda",
+   "Central Hyrule Depths"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 29
+ },
+ {
+  "id": 314,
+  "name": "molduga jaw",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +01:20",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 32
+ },
+ {
+  "id": 315,
+  "name": "gleeok flame horn",
+  "game": "totk",
+  "commonLocations": [
+   "Eldin Canyon",
+   "Lake Hylia"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 30
+ },
+ {
+  "id": 316,
+  "name": "gleeok frost horn",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Highlands",
+   "Hebra Mountains"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 30
+ },
+ {
+  "id": 317,
+  "name": "gleeok thunder horn",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Faron Grasslands"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 30
+ },
+ {
+  "id": 318,
+  "name": "frox fang",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Highlands Depths",
+   "Central Hyrule Depths"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 14
+ },
+ {
+  "id": 319,
+  "name": "obsidian frox fang",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert Depths",
+   "Hyrule Ridge Depths"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 24
+ },
+ {
+  "id": 320,
+  "name": "blue-white frox fang",
+  "game": "totk",
+  "commonLocations": [
+   "Hebra Mountains Depths",
+   "Tabantha Frontier Depths"
+  ],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +00:40",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 35
+ },
+ {
+  "id": 321,
+  "name": "dinraal's horn",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +30:00",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 26
+ },
+ {
+  "id": 322,
+  "name": "shard of dinraal's spike",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +01:20",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 16
+ },
+ {
+  "id": 323,
+  "name": "naydra's horn",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +30:00",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 26
+ },
+ {
+  "id": 324,
+  "name": "shard of naydra's spike",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +01:20",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 16
+ },
+ {
+  "id": 325,
+  "name": "farosh's horn",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +30:00",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 26
+ },
+ {
+  "id": 326,
+  "name": "shard of farosh's spike",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +01:20",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 16
+ },
+ {
+  "id": 327,
+  "name": "light dragon's horn",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +30:00",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 20
+ },
+ {
+  "id": 328,
+  "name": "shard of light dragon's spike",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "materials",
+  "cookingEffect": "effect duration +01:20",
+  "heartsRecovered": 0,
+  "fuseAttackPower": 12
+ },
+ {
+  "id": 329,
+  "name": "master sword",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 30,
+  "defense": 0,
+  "effect": "",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 330,
+  "name": "tree branch",
+  "game": "totk",
+  "commonLocations": [
+   "Great Sky Island",
+   "Hyrule Field"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 2,
+  "defense": 0,
+  "effect": "",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 331,
+  "name": "torch",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Gerudo Desert"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 2,
+  "defense": 0,
+  "effect": "",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 332,
+  "name": "soup ladle",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "West Necluda"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 4,
+  "defense": 0,
+  "effect": "",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 333,
+  "name": "boomerang",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Great Spring",
+   "Lanayru Wetlands"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 6,
+  "defense": 0,
+  "effect": "",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 334,
+  "name": "boomerang (new)",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 8,
+  "defense": 0,
+  "effect": "",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 335,
+  "name": "sea-breeze boomerang",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 16,
+  "defense": 0,
+  "effect": "",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 336,
+  "name": "traveler's sword",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Central Hyrule Depths"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 5,
+  "defense": 0,
+  "effect": "",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 337,
+  "name": "traveler's sword (new)",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 7,
+  "defense": 0,
+  "effect": "",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 338,
+  "name": "soldier's broadsword",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Eldin Canyon"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 6,
+  "defense": 0,
+  "effect": "quick charge",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 339,
+  "name": "soldier's broadsword (new)",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 12,
+  "defense": 0,
+  "effect": "quick charge",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 340,
+  "name": "knight's broadsword",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert",
+   "Hyrule Castle"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 7,
+  "defense": 0,
+  "effect": "desperate strength",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 341,
+  "name": "knight's broadsword (new)",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 18,
+  "defense": 0,
+  "effect": "desperate strength",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 342,
+  "name": "royal broadsword",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Castle",
+   "Gerudo Highlands Depths"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 10,
+  "defense": 0,
+  "effect": "improved flurry rush",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 343,
+  "name": "royal broadsword (new)",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 24,
+  "defense": 0,
+  "effect": "improved flurry rush",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 344,
+  "name": "forest dweller's sword",
+  "game": "totk",
+  "commonLocations": [
+   "Eldin Mountains",
+   "Great Hyrule Forest"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 7,
+  "defense": 0,
+  "effect": "",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 345,
+  "name": "forest dweller's sword (new)",
+  "game": "totk",
+  "commonLocations": [
+   "Eldin Mountains",
+   "Great Hyrule Forest"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 16,
+  "defense": 0,
+  "effect": "fuse recycling",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 346,
+  "name": "zora sword",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Great Spring"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 6,
+  "defense": 0,
+  "effect": "",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 347,
+  "name": "zora sword (new)",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 12,
+  "defense": 0,
+  "effect": "water warrior",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 348,
+  "name": "feathered edge",
+  "game": "totk",
+  "commonLocations": [
+   "Hebra Mountains",
+   "Tabantha Frontier"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 6,
+  "defense": 0,
+  "effect": "",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 349,
+  "name": "feathered edge (new)",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 13,
+  "defense": 0,
+  "effect": "wind burst",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 350,
+  "name": "gerudo scimitar",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 8,
+  "defense": 0,
+  "effect": "strong fusion",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 351,
+  "name": "gerudo scimitar (new)",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 17,
+  "defense": 0,
+  "effect": "strong fusion",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 352,
+  "name": "scimitar of the seven",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Town"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 28,
+  "defense": 0,
+  "effect": "strong fusion",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 353,
+  "name": "eightfold blade",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 6,
+  "defense": 0,
+  "effect": "improved sneakstrike",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 354,
+  "name": "eightfold blade (new)",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 15,
+  "defense": 0,
+  "effect": "improved sneakstrike",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 355,
+  "name": "rusty broadsword",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "East Necluda Depths"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 5,
+  "defense": 0,
+  "effect": "",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 356,
+  "name": "sword of the hero",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 17,
+  "defense": 0,
+  "effect": "",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 357,
+  "name": "royal guard's sword",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 22,
+  "defense": 0,
+  "effect": "breaking point",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 358,
+  "name": "royal guard's sword (new)",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 30,
+  "defense": 0,
+  "effect": "breaking point",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 359,
+  "name": "white sword of the sky",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 24,
+  "defense": 0,
+  "effect": "",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 360,
+  "name": "wooden stick",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Central Hyrule Depths"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 4,
+  "defense": 0,
+  "effect": "",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 361,
+  "name": "sturdy wooden stick",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "East Necluda"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 5,
+  "defense": 0,
+  "effect": "extra durable",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 362,
+  "name": "gnarled wooden stick",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert",
+   "Mount Lanayru"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 14,
+  "defense": 0,
+  "effect": "",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 363,
+  "name": "lizal boomerang",
+  "game": "totk",
+  "commonLocations": [
+   "Hebra Mountains",
+   "Mount Lanayru"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 8,
+  "defense": 0,
+  "effect": "",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 364,
+  "name": "zonaite sword",
+  "game": "totk",
+  "commonLocations": [
+   "Necluda Sky Archipelago",
+   "South Eldin Sky Archipelago"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 6,
+  "defense": 0,
+  "effect": "zonaite-powered",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 365,
+  "name": "strong zonaite sword",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Sky Archipelago",
+   "Thunderhead Isles"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 7,
+  "defense": 0,
+  "effect": "zonaite-powered",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 366,
+  "name": "mighty zonaite sword",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 10,
+  "defense": 0,
+  "effect": "zonaite-powered",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 367,
+  "name": "magic rod",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Highlands",
+   "West Necluda"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 6,
+  "defense": 0,
+  "effect": "",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 368,
+  "name": "bokoblin arm",
+  "game": "totk",
+  "commonLocations": [
+   "Great Hyrule Forest",
+   "Gerudo Desert Depths"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 20,
+  "defense": 0,
+  "effect": "",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 369,
+  "name": "lizalfos arm",
+  "game": "totk",
+  "commonLocations": [
+   "Greater Hyrule"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 22,
+  "defense": 0,
+  "effect": "",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 370,
+  "name": "gloom sword",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 41,
+  "defense": 0,
+  "effect": "gloom toll",
+  "type": "one-handed weapon"
+ },
+ {
+  "id": 371,
+  "name": "farming hoe",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "West Necluda"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 6,
+  "defense": 0,
+  "effect": "",
+  "type": "two-handed weapon"
+ },
+ {
+  "id": 372,
+  "name": "boat oar",
+  "game": "totk",
+  "commonLocations": [
+   "East Necluda"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 4,
+  "defense": 0,
+  "effect": "",
+  "type": "two-handed weapon"
+ },
+ {
+  "id": 373,
+  "name": "giant boomerang",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Eldin Canyon"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 11,
+  "defense": 0,
+  "effect": "",
+  "type": "two-handed weapon"
+ },
+ {
+  "id": 374,
+  "name": "giant boomerang (new)",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 23,
+  "defense": 0,
+  "effect": "",
+  "type": "two-handed weapon"
+ },
+ {
+  "id": 375,
+  "name": "traveler's claymore",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Gerudo Desert"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 6,
+  "defense": 0,
+  "effect": "",
+  "type": "two-handed weapon"
+ },
+ {
+  "id": 376,
+  "name": "traveler's claymore (new)",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 9,
+  "defense": 0,
+  "effect": "",
+  "type": "two-handed weapon"
+ },
+ {
+  "id": 377,
+  "name": "soldier's claymore",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Eldin Canyon"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 8,
+  "defense": 0,
+  "effect": "charge atk. stamina up",
+  "type": "two-handed weapon"
+ },
+ {
+  "id": 378,
+  "name": "soldier's claymore (new)",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 16,
+  "defense": 0,
+  "effect": "charge atk. stamina up",
+  "type": "two-handed weapon"
+ },
+ {
+  "id": 379,
+  "name": "knight's claymore",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Gerudo Desert"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 11,
+  "defense": 0,
+  "effect": "desperate strength",
+  "type": "two-handed weapon"
+ },
+ {
+  "id": 380,
+  "name": "knight's claymore (new)",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 24,
+  "defense": 0,
+  "effect": "desperate strength",
+  "type": "two-handed weapon"
+ },
+ {
+  "id": 381,
+  "name": "royal claymore",
+  "game": "totk",
+  "commonLocations": [
+   "Great Plateau",
+   "Hyrule Castle"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 14,
+  "defense": 0,
+  "effect": "improved flurry rush",
+  "type": "two-handed weapon"
+ },
+ {
+  "id": 382,
+  "name": "royal claymore (new)",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 34,
+  "defense": 0,
+  "effect": "improved flurry rush",
+  "type": "two-handed weapon"
+ },
+ {
+  "id": 383,
+  "name": "zora longsword",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Great Spring"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 6,
+  "defense": 0,
+  "effect": "water warrior",
+  "type": "two-handed weapon"
+ },
+ {
+  "id": 384,
+  "name": "zora longsword (new)",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 17,
+  "defense": 0,
+  "effect": "water warrior",
+  "type": "two-handed weapon"
+ },
+ {
+  "id": 385,
+  "name": "cobble crusher",
+  "game": "totk",
+  "commonLocations": [
+   "Eldin Canyon",
+   "Eldin Canyon Depths"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 9,
+  "defense": 0,
+  "effect": "demolisher",
+  "type": "two-handed weapon"
+ },
+ {
+  "id": 386,
+  "name": "cobble crusher (new)",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 14,
+  "defense": 0,
+  "effect": "demolisher",
+  "type": "two-handed weapon"
+ },
+ {
+  "id": 387,
+  "name": "boulder breaker",
+  "game": "totk",
+  "commonLocations": [
+   "Goron City"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 38,
+  "defense": 0,
+  "effect": "demolisher",
+  "type": "two-handed weapon"
+ },
+ {
+  "id": 388,
+  "name": "biggoron's sword",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 36,
+  "defense": 0,
+  "effect": "",
+  "type": "two-handed weapon"
+ },
+ {
+  "id": 389,
+  "name": "gerudo claymore",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert",
+   "Gerudo Highlands"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 10,
+  "defense": 0,
+  "effect": "strong fusion",
+  "type": "two-handed weapon"
+ },
+ {
+  "id": 390,
+  "name": "gerudo claymore (new)",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 22,
+  "defense": 0,
+  "effect": "strong fusion",
+  "type": "two-handed weapon"
+ },
+ {
+  "id": 391,
+  "name": "eightfold longblade",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Ridge",
+   "Gerudo Highlands"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 8,
+  "defense": 0,
+  "effect": "wind razor",
+  "type": "two-handed weapon"
+ },
+ {
+  "id": 392,
+  "name": "eightfold longblade (new)",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 23,
+  "defense": 0,
+  "effect": "wind razor",
+  "type": "two-handed weapon"
+ },
+ {
+  "id": 393,
+  "name": "dusk claymore",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 32,
+  "defense": 0,
+  "effect": "",
+  "type": "two-handed weapon"
+ },
+ {
+  "id": 394,
+  "name": "fierce deity sword",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 38,
+  "defense": 0,
+  "effect": "",
+  "type": "two-handed weapon"
+ },
+ {
+  "id": 395,
+  "name": "rusty claymore",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Eldin Canyon Depths"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 6,
+  "defense": 0,
+  "effect": "",
+  "type": "two-handed weapon"
+ },
+ {
+  "id": 396,
+  "name": "royal guard's claymore",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 32,
+  "defense": 0,
+  "effect": "breaking point",
+  "type": "two-handed weapon"
+ },
+ {
+  "id": 397,
+  "name": "royal guard's claymore (new)",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 39,
+  "defense": 0,
+  "effect": "breaking point",
+  "type": "two-handed weapon"
+ },
+ {
+  "id": 398,
+  "name": "thick stick",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Hebra Mountains"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 5,
+  "defense": 0,
+  "effect": "",
+  "type": "two-handed weapon"
+ },
+ {
+  "id": 399,
+  "name": "sturdy thick stick",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Gerudo Desert"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 7,
+  "defense": 0,
+  "effect": "extra durable",
+  "type": "two-handed weapon"
+ },
+ {
+  "id": 400,
+  "name": "gnarled thick stick",
+  "game": "totk",
+  "commonLocations": [
+   "East Necluda",
+   "Gerudo Highlands"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 19,
+  "defense": 0,
+  "effect": "",
+  "type": "two-handed weapon"
+ },
+ {
+  "id": 401,
+  "name": "zonaite longsword",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Sky Archipelago",
+   "Necluda Sky Archipelago"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 8,
+  "defense": 0,
+  "effect": "zonaite-powered",
+  "type": "two-handed weapon"
+ },
+ {
+  "id": 402,
+  "name": "strong zonaite longsword",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Sky Archipelago",
+   "Thunderhead Isles"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 10,
+  "defense": 0,
+  "effect": "zonaite-powered",
+  "type": "two-handed weapon"
+ },
+ {
+  "id": 403,
+  "name": "mighty zonaite longsword",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 15,
+  "defense": 0,
+  "effect": "zonaite-powered",
+  "type": "two-handed weapon"
+ },
+ {
+  "id": 404,
+  "name": "magic scepter",
+  "game": "totk",
+  "commonLocations": [
+   "Central Hyrule Depths",
+   "Mount Lanayru Depths"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 7,
+  "defense": 0,
+  "effect": "",
+  "type": "two-handed weapon"
+ },
+ {
+  "id": 405,
+  "name": "moblin arm",
+  "game": "totk",
+  "commonLocations": [
+   "Great Hyrule Forest",
+   "Deep Akkala Depths"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 28,
+  "defense": 0,
+  "effect": "",
+  "type": "two-handed weapon"
+ },
+ {
+  "id": 406,
+  "name": "gloom club",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 50,
+  "defense": 0,
+  "effect": "gloom toll",
+  "type": "two-handed weapon"
+ },
+ {
+  "id": 407,
+  "name": "wooden mop",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Eldin Canyon"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 3,
+  "defense": 0,
+  "effect": "",
+  "type": "spear"
+ },
+ {
+  "id": 408,
+  "name": "farmer's pitchfork",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "West Necluda"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 4,
+  "defense": 0,
+  "effect": "",
+  "type": "spear"
+ },
+ {
+  "id": 409,
+  "name": "fishing harpoon",
+  "game": "totk",
+  "commonLocations": [
+   "Lurelin Village"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 4,
+  "defense": 0,
+  "effect": "",
+  "type": "spear"
+ },
+ {
+  "id": 410,
+  "name": "throwing spear",
+  "game": "totk",
+  "commonLocations": [
+   "Central Hyrule Depths"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 3,
+  "defense": 0,
+  "effect": "",
+  "type": "spear"
+ },
+ {
+  "id": 411,
+  "name": "throwing spear (new)",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 8,
+  "defense": 0,
+  "effect": "",
+  "type": "spear"
+ },
+ {
+  "id": 412,
+  "name": "traveler's spear",
+  "game": "totk",
+  "commonLocations": [
+   "Death Mountain",
+   "Gerudo Highlands"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 3,
+  "defense": 0,
+  "effect": "",
+  "type": "spear"
+ },
+ {
+  "id": 413,
+  "name": "traveler's spear (new)",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 4,
+  "defense": 0,
+  "effect": "",
+  "type": "spear"
+ },
+ {
+  "id": 414,
+  "name": "soldier's spear",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Eldin Canyon"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 4,
+  "defense": 0,
+  "effect": "quick charge",
+  "type": "spear"
+ },
+ {
+  "id": 415,
+  "name": "soldier's spear (new)",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 10,
+  "defense": 0,
+  "effect": "quick charge",
+  "type": "spear"
+ },
+ {
+  "id": 416,
+  "name": "knight's halberd",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert",
+   "Faron Grasslands"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 6,
+  "defense": 0,
+  "effect": "desperate strength",
+  "type": "spear"
+ },
+ {
+  "id": 417,
+  "name": "knight's halberd (new)",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 14,
+  "defense": 0,
+  "effect": "desperate strength",
+  "type": "spear"
+ },
+ {
+  "id": 418,
+  "name": "royal halberd",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Castle",
+   "East Necluda"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 7,
+  "defense": 0,
+  "effect": "improved flurry rush",
+  "type": "spear"
+ },
+ {
+  "id": 419,
+  "name": "royal halberd (new)",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 18,
+  "defense": 0,
+  "effect": "improved flurry rush",
+  "type": "spear"
+ },
+ {
+  "id": 420,
+  "name": "forest dweller's spear",
+  "game": "totk",
+  "commonLocations": [
+   "Great Hyrule Forest"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 6,
+  "defense": 0,
+  "effect": "fuse recycling",
+  "type": "spear"
+ },
+ {
+  "id": 421,
+  "name": "forest dweller's spear (new)",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 14,
+  "defense": 0,
+  "effect": "fuse recycling",
+  "type": "spear"
+ },
+ {
+  "id": 422,
+  "name": "zora spear",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Wetlands",
+   "Upland Zorana"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 6,
+  "defense": 0,
+  "effect": "water warrior",
+  "type": "spear"
+ },
+ {
+  "id": 423,
+  "name": "zora spear (new)",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 11,
+  "defense": 0,
+  "effect": "water warrior",
+  "type": "spear"
+ },
+ {
+  "id": 424,
+  "name": "lightscale trident",
+  "game": "totk",
+  "commonLocations": [
+   "Zora's Domain"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 22,
+  "defense": 0,
+  "effect": "water warrior",
+  "type": "spear"
+ },
+ {
+  "id": 425,
+  "name": "feathered spear",
+  "game": "totk",
+  "commonLocations": [
+   "Hebra Mountains",
+   "Tabantha Frontier"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 4,
+  "defense": 0,
+  "effect": "wind burst",
+  "type": "spear"
+ },
+ {
+  "id": 426,
+  "name": "feathered spear (new)",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 10,
+  "defense": 0,
+  "effect": "wind burst",
+  "type": "spear"
+ },
+ {
+  "id": 427,
+  "name": "gerudo spear",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 6,
+  "defense": 0,
+  "effect": "strong fusion",
+  "type": "spear"
+ },
+ {
+  "id": 428,
+  "name": "gerudo spear (new)",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 12,
+  "defense": 0,
+  "effect": "strong fusion",
+  "type": "spear"
+ },
+ {
+  "id": 429,
+  "name": "rusty halberd",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "East Necluda"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 3,
+  "defense": 0,
+  "effect": "",
+  "type": "spear"
+ },
+ {
+  "id": 430,
+  "name": "royal guard's spear",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 15,
+  "defense": 0,
+  "effect": "breaking point",
+  "type": "spear"
+ },
+ {
+  "id": 431,
+  "name": "royal guard's spear (new)",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 24,
+  "defense": 0,
+  "effect": "breaking point",
+  "type": "spear"
+ },
+ {
+  "id": 432,
+  "name": "long stick",
+  "game": "totk",
+  "commonLocations": [
+   "Tabantha Frontier",
+   "Hebra Mountains"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 2,
+  "defense": 0,
+  "effect": "",
+  "type": "spear"
+ },
+ {
+  "id": 433,
+  "name": "sturdy long stick",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert",
+   "East Necluda Depths"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 4,
+  "defense": 0,
+  "effect": "extra durable",
+  "type": "spear"
+ },
+ {
+  "id": 434,
+  "name": "gnarled long stick",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 16,
+  "defense": 0,
+  "effect": "",
+  "type": "spear"
+ },
+ {
+  "id": 435,
+  "name": "zonaite spear",
+  "game": "totk",
+  "commonLocations": [
+   "Rising Island Chain",
+   "Lanayru Sky Archipelago"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 4,
+  "defense": 0,
+  "effect": "zonaite-powered",
+  "type": "spear"
+ },
+ {
+  "id": 436,
+  "name": "strong zonaite spear",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Sky Archipelago"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 6,
+  "defense": 0,
+  "effect": "zonaite-powered",
+  "type": "spear"
+ },
+ {
+  "id": 437,
+  "name": "mighty zonaite spear",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 6,
+  "defense": 0,
+  "effect": "zonaite-powered",
+  "type": "spear"
+ },
+ {
+  "id": 438,
+  "name": "magic staff",
+  "game": "totk",
+  "commonLocations": [
+   "Eldin Mountains",
+   "North Gerudo Sky Archipelago"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 4,
+  "defense": 0,
+  "effect": "",
+  "type": "spear"
+ },
+ {
+  "id": 439,
+  "name": "gloom spear",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 40,
+  "defense": 0,
+  "effect": "gloom toll",
+  "type": "spear"
+ },
+ {
+  "id": 440,
+  "name": "arrow",
+  "game": "totk",
+  "commonLocations": [
+   "Greater Hyrule"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 0,
+  "defense": 0,
+  "effect": "",
+  "type": "arrow"
+ },
+ {
+  "id": 441,
+  "name": "old wooden bow",
+  "game": "totk",
+  "commonLocations": [
+   "Great Sky Island"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 4,
+  "defense": 0,
+  "effect": "",
+  "type": "bow"
+ },
+ {
+  "id": 442,
+  "name": "wooden bow",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "South Lanayru Sky Archipelago"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 4,
+  "defense": 0,
+  "effect": "",
+  "type": "bow"
+ },
+ {
+  "id": 443,
+  "name": "traveler's bow",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Central Hyrule Depths"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 5,
+  "defense": 0,
+  "effect": "",
+  "type": "bow"
+ },
+ {
+  "id": 444,
+  "name": "soldier's bow",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Hebra Mountains"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 14,
+  "defense": 0,
+  "effect": "",
+  "type": "bow"
+ },
+ {
+  "id": 445,
+  "name": "knight's bow",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert",
+   "Akkala Highlands"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 26,
+  "defense": 0,
+  "effect": "",
+  "type": "bow"
+ },
+ {
+  "id": 446,
+  "name": "royal bow",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Central Hyrule Depths"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 38,
+  "defense": 0,
+  "effect": "",
+  "type": "bow"
+ },
+ {
+  "id": 447,
+  "name": "forest dweller's bow",
+  "game": "totk",
+  "commonLocations": [
+   "Great Hyrule Forest"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 15,
+  "defense": 0,
+  "effect": "triple shot",
+  "type": "bow"
+ },
+ {
+  "id": 448,
+  "name": "zora bow",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Great Spring"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 20,
+  "defense": 0,
+  "effect": "",
+  "type": "bow"
+ },
+ {
+  "id": 449,
+  "name": "swallow bow",
+  "game": "totk",
+  "commonLocations": [
+   "Hebra Mountains",
+   "Tabantha Frontier"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 8,
+  "defense": 0,
+  "effect": "",
+  "type": "bow"
+ },
+ {
+  "id": 450,
+  "name": "falcon bow",
+  "game": "totk",
+  "commonLocations": [
+   "Tabantha Frontier",
+   "Hebra Mountains"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 14,
+  "defense": 0,
+  "effect": "",
+  "type": "bow"
+ },
+ {
+  "id": 451,
+  "name": "great eagle bow",
+  "game": "totk",
+  "commonLocations": [
+   "Rito Village"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 28,
+  "defense": 0,
+  "effect": "triple shot",
+  "type": "bow"
+ },
+ {
+  "id": 452,
+  "name": "gerudo bow",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert",
+   "Gerudo Highlands"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 25,
+  "defense": 0,
+  "effect": "",
+  "type": "bow"
+ },
+ {
+  "id": 453,
+  "name": "phrenic bow",
+  "game": "totk",
+  "commonLocations": [
+   "East Necluda",
+   "West Necluda"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 10,
+  "defense": 0,
+  "effect": "",
+  "type": "bow"
+ },
+ {
+  "id": 454,
+  "name": "royal guard's bow",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 50,
+  "defense": 0,
+  "effect": "",
+  "type": "bow"
+ },
+ {
+  "id": 455,
+  "name": "dusk bow",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 30,
+  "defense": 0,
+  "effect": "",
+  "type": "bow"
+ },
+ {
+  "id": 456,
+  "name": "boko bow",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Central Hyrule Depths"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 4,
+  "defense": 0,
+  "effect": "",
+  "type": "bow"
+ },
+ {
+  "id": 457,
+  "name": "spiked boko bow",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Gerudo Highlands Depths"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 12,
+  "defense": 0,
+  "effect": "",
+  "type": "bow"
+ },
+ {
+  "id": 458,
+  "name": "dragonbone boko bow",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Highlands",
+   "Gerudo Highlands Depths"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 24,
+  "defense": 0,
+  "effect": "",
+  "type": "bow"
+ },
+ {
+  "id": 459,
+  "name": "lizal bow",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Wetlands",
+   "Gerudo Desert Depths"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 14,
+  "defense": 0,
+  "effect": "",
+  "type": "bow"
+ },
+ {
+  "id": 460,
+  "name": "strengthened lizal bow",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert",
+   "Akkala Highlands Depths"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 25,
+  "defense": 0,
+  "effect": "",
+  "type": "bow"
+ },
+ {
+  "id": 461,
+  "name": "steel lizal bow",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Highlands Depths",
+   "Central Hyrule Depths"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 36,
+  "defense": 0,
+  "effect": "",
+  "type": "bow"
+ },
+ {
+  "id": 462,
+  "name": "lynel bow",
+  "game": "totk",
+  "commonLocations": [
+   "East Necluda",
+   "Deep Akkala"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 10,
+  "defense": 0,
+  "effect": "triple shot",
+  "type": "bow"
+ },
+ {
+  "id": 463,
+  "name": "mighty lynel bow",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Great Spring",
+   "Akkala Highlands Depths"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 20,
+  "defense": 0,
+  "effect": "triple shot",
+  "type": "bow"
+ },
+ {
+  "id": 464,
+  "name": "savage lynel bow",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Highlands",
+   "Lanayru Wetlands Depths"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 32,
+  "defense": 0,
+  "effect": "triple shot",
+  "type": "bow"
+ },
+ {
+  "id": 465,
+  "name": "duplex bow",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Gerudo Desert Depths"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 14,
+  "defense": 0,
+  "effect": "double shot",
+  "type": "bow"
+ },
+ {
+  "id": 466,
+  "name": "construct bow",
+  "game": "totk",
+  "commonLocations": [
+   "South Lanayru Sky Archipelago",
+   "North Gerudo Sky Archipelago"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 5,
+  "defense": 0,
+  "effect": "",
+  "type": "bow"
+ },
+ {
+  "id": 467,
+  "name": "strong construct bow",
+  "game": "totk",
+  "commonLocations": [
+   "Rising Island Chain",
+   "Death Mountain Depths"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 11,
+  "defense": 0,
+  "effect": "",
+  "type": "bow"
+ },
+ {
+  "id": 468,
+  "name": "mighty construct bow",
+  "game": "totk",
+  "commonLocations": [
+   "Lomei Labyrinth Island",
+   "Thyphlo Ruins"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 24,
+  "defense": 0,
+  "effect": "",
+  "type": "bow"
+ },
+ {
+  "id": 469,
+  "name": "zonaite bow",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 30,
+  "defense": 0,
+  "effect": "",
+  "type": "bow"
+ },
+ {
+  "id": 470,
+  "name": "demon king's bow",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 60,
+  "defense": 0,
+  "effect": "",
+  "type": "bow"
+ },
+ {
+  "id": 471,
+  "name": "hylian shield",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 0,
+  "defense": 90,
+  "effect": "",
+  "type": "shield"
+ },
+ {
+  "id": 472,
+  "name": "pot lid",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "East Necluda"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 0,
+  "defense": 1,
+  "effect": "",
+  "type": "shield"
+ },
+ {
+  "id": 473,
+  "name": "old wooden shield",
+  "game": "totk",
+  "commonLocations": [
+   "Great Sky Island",
+   "Gerudo Desert"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 0,
+  "defense": 2,
+  "effect": "",
+  "type": "shield"
+ },
+ {
+  "id": 474,
+  "name": "wooden shield",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Hebra Mountains"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 0,
+  "defense": 2,
+  "effect": "",
+  "type": "shield"
+ },
+ {
+  "id": 475,
+  "name": "emblazoned shield",
+  "game": "totk",
+  "commonLocations": [
+   "West Necluda",
+   "East Necluda"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 0,
+  "defense": 3,
+  "effect": "",
+  "type": "shield"
+ },
+ {
+  "id": 476,
+  "name": "hunter's shield",
+  "game": "totk",
+  "commonLocations": [
+   "Tabantha Frontier",
+   "Hebra Mountains"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 0,
+  "defense": 3,
+  "effect": "",
+  "type": "shield"
+ },
+ {
+  "id": 477,
+  "name": "fisherman's shield",
+  "game": "totk",
+  "commonLocations": [
+   "Lurelin Village"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 0,
+  "defense": 3,
+  "effect": "",
+  "type": "shield"
+ },
+ {
+  "id": 478,
+  "name": "traveler's shield",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Eldin Mountains"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 0,
+  "defense": 4,
+  "effect": "",
+  "type": "shield"
+ },
+ {
+  "id": 479,
+  "name": "soldier's shield",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Eldin Canyon"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 0,
+  "defense": 16,
+  "effect": "",
+  "type": "shield"
+ },
+ {
+  "id": 480,
+  "name": "knight's shield",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert",
+   "Tabantha Frontier Depths"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 0,
+  "defense": 40,
+  "effect": "",
+  "type": "shield"
+ },
+ {
+  "id": 481,
+  "name": "royal shield",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Gerudo Highlands Depths"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 0,
+  "defense": 55,
+  "effect": "",
+  "type": "shield"
+ },
+ {
+  "id": 482,
+  "name": "forest dweller's shield",
+  "game": "totk",
+  "commonLocations": [
+   "Great Hyrule Forest"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 0,
+  "defense": 30,
+  "effect": "",
+  "type": "shield"
+ },
+ {
+  "id": 483,
+  "name": "zora shield",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Great Spring",
+   "Lanayru Great Spring Sky"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 0,
+  "defense": 24,
+  "effect": "",
+  "type": "shield"
+ },
+ {
+  "id": 484,
+  "name": "kite shield",
+  "game": "totk",
+  "commonLocations": [
+   "Hebra Mountains",
+   "Tabantha Frontier"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 0,
+  "defense": 14,
+  "effect": "",
+  "type": "shield"
+ },
+ {
+  "id": 485,
+  "name": "gerudo shield",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert",
+   "Gerudo Highlands"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 0,
+  "defense": 28,
+  "effect": "",
+  "type": "shield"
+ },
+ {
+  "id": 486,
+  "name": "radiant shield",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert",
+   "Gerudo Highlands"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 0,
+  "defense": 35,
+  "effect": "",
+  "type": "shield"
+ },
+ {
+  "id": 487,
+  "name": "daybreaker",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Town"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 0,
+  "defense": 48,
+  "effect": "",
+  "type": "shield"
+ },
+ {
+  "id": 488,
+  "name": "shield of the mind's eye",
+  "game": "totk",
+  "commonLocations": [
+   "East Necluda",
+   "West Necluda"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 0,
+  "defense": 16,
+  "effect": "",
+  "type": "shield"
+ },
+ {
+  "id": 489,
+  "name": "sea-breeze shield",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 0,
+  "defense": 65,
+  "effect": "",
+  "type": "shield"
+ },
+ {
+  "id": 490,
+  "name": "rusty shield",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "East Necluda"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 0,
+  "defense": 3,
+  "effect": "",
+  "type": "shield"
+ },
+ {
+  "id": 491,
+  "name": "royal guard's shield",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 0,
+  "defense": 70,
+  "effect": "",
+  "type": "shield"
+ },
+ {
+  "id": 492,
+  "name": "boko shield",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Hebra Mountains"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 0,
+  "defense": 3,
+  "effect": "",
+  "type": "shield"
+ },
+ {
+  "id": 493,
+  "name": "spiked boko shield",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "East Necluda"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 0,
+  "defense": 10,
+  "effect": "",
+  "type": "shield"
+ },
+ {
+  "id": 494,
+  "name": "dragonbone boko shield",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Highlands",
+   "Gerudo Desert"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 0,
+  "defense": 25,
+  "effect": "",
+  "type": "shield"
+ },
+ {
+  "id": 495,
+  "name": "lizal shield",
+  "game": "totk",
+  "commonLocations": [
+   "Faron Sea",
+   "Lanayru Great Spring"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 0,
+  "defense": 15,
+  "effect": "",
+  "type": "shield"
+ },
+ {
+  "id": 496,
+  "name": "reinforced lizal shield",
+  "game": "totk",
+  "commonLocations": [
+   "Tabantha Tundra",
+   "Abandoned Kakariko Mine"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 0,
+  "defense": 22,
+  "effect": "",
+  "type": "shield"
+ },
+ {
+  "id": 497,
+  "name": "steel lizal shield",
+  "game": "totk",
+  "commonLocations": [
+   "Gerudo Desert",
+   "Mount Lanayru"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 0,
+  "defense": 35,
+  "effect": "",
+  "type": "shield"
+ },
+ {
+  "id": 498,
+  "name": "zonaite shield",
+  "game": "totk",
+  "commonLocations": [
+   "Necluda Sky Archipelago",
+   "Eldin Sky Archipelago"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 0,
+  "defense": 11,
+  "effect": "",
+  "type": "shield"
+ },
+ {
+  "id": 499,
+  "name": "strong zonaite shield",
+  "game": "totk",
+  "commonLocations": [
+   "Lanayru Sky Archipelago",
+   "Lomei Labyrinth Island"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 0,
+  "defense": 26,
+  "effect": "",
+  "type": "shield"
+ },
+ {
+  "id": 500,
+  "name": "mighty zonaite shield",
+  "game": "totk",
+  "commonLocations": [],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 0,
+  "defense": 50,
+  "effect": "",
+  "type": "shield"
+ },
+ {
+  "id": 501,
+  "name": "lynel shield",
+  "game": "totk",
+  "commonLocations": [
+   "Hyrule Field",
+   "Central Hyrule Depths"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 0,
+  "defense": 30,
+  "effect": "",
+  "type": "shield"
+ },
+ {
+  "id": 502,
+  "name": "mighty lynel shield",
+  "game": "totk",
+  "commonLocations": [
+   "Faron Grasslands",
+   "Eldin Canyon Depths"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 0,
+  "defense": 44,
+  "effect": "",
+  "type": "shield"
+ },
+ {
+  "id": 503,
+  "name": "savage lynel shield",
+  "game": "totk",
+  "commonLocations": [
+   "Akkala Highlands Depths",
+   "Central Hyrule Depths"
+  ],
+  "dlc": false,
+  "category": "equipment",
+  "attack": 0,
+  "defense": 62,
+  "effect": "",
+  "type": "shield"
+ },
+ {
+  "id": 504,
+  "name": "treasure chest",
+  "game": "totk",
+  "commonLocations": [
+   "Greater Hyrule"
+  ],
+  "dlc": false,
+  "category": "treasure",
+  "drops": [
+   "treasures"
+  ]
+ },
+ {
+  "id": 505,
+  "name": "ore deposit",
+  "game": "totk",
+  "commonLocations": [
+   "Greater Hyrule"
+  ],
+  "dlc": false,
+  "category": "treasure",
+  "drops": [
+   "ruby",
+   "diamond",
+   "amber",
+   "sapphire",
+   "topaz",
+   "opal",
+   "rock salt",
+   "flint"
+  ]
+ },
+ {
+  "id": 506,
+  "name": "rare ore deposit",
+  "game": "totk",
+  "commonLocations": [
+   "Greater Hyrule"
+  ],
+  "dlc": false,
+  "category": "treasure",
+  "drops": [
+   "ruby",
+   "sapphire",
+   "diamond",
+   "amber",
+   "topaz",
+   "flint"
+  ]
+ },
+ {
+  "id": 507,
+  "name": "luminous stone deposit",
+  "game": "totk",
+  "commonLocations": [
+   "Greater Hyrule"
+  ],
+  "dlc": false,
+  "category": "treasure",
+  "drops": [
+   "luminous",
+   "flint"
+  ]
+ },
+ {
+  "id": 508,
+  "name": "zonaite deposit",
+  "game": "totk",
+  "commonLocations": [
+   "The Depths"
+  ],
+  "dlc": false,
+  "category": "treasure",
+  "drops": [
+   "zonaite",
+   "large zonaite"
+  ]
+ },
+ {
+  "id": 509,
+  "name": "well",
+  "game": "totk",
+  "commonLocations": [
+   "Greater Hyrule"
+  ],
+  "dlc": false,
+  "category": "treasure",
+  "drops": [
+   "materials"
+  ]
+ }
+]
