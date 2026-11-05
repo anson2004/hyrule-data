@@ -1,6 +1,7 @@
 import botwData from './data/botw.json';
 import totkData from './data/totk.json';
-import type { Category, Entry, EntryOfCategory, Game, Locale } from './types.js';
+import npcData from './data/npcs.json';
+import type { Category, Entry, EntryOfCategory, Game, Locale, Npc, Race } from './types.js';
 
 export * from './types.js';
 
@@ -8,6 +9,8 @@ const DATA: Record<Game, readonly Entry[]> = {
   botw: botwData as Entry[],
   totk: totkData as Entry[],
 };
+
+const NPCS = npcData as Npc[];
 
 const normalizeName = (name: string) => name.trim().toLowerCase().replace(/[\s_-]+/g, ' ');
 
@@ -38,9 +41,9 @@ function englishNameFor(locale: Locale, translated: string): string | undefined 
   return index.get(foldText(translated));
 }
 
-/** The entry's name in `locale`, or its English name when there is no translation. */
-export function getName(entry: Entry, locale?: Locale): string {
-  return translate(locale, entry.name) ?? entry.name;
+/** The entry's or NPC's name in `locale`, or its English name when there is no translation. */
+export function getName(item: Entry | Npc, locale?: Locale): string {
+  return translate(locale, item.name) ?? item.name;
 }
 
 function translate(locale: Locale | undefined, englishName: string): string | undefined {
@@ -67,9 +70,7 @@ export function getEntry(
 ): Entry | undefined {
   assertGame(game);
   if (typeof idOrName === 'number') return DATA[game].find((e) => e.id === idOrName);
-  const wanted = normalizeName(idOrName);
-  const english = options.locale ? englishNameFor(options.locale, idOrName) : undefined;
-  return DATA[game].find((e) => e.name === wanted || e.name === english);
+  return findByName(DATA[game], idOrName, options.locale);
 }
 
 export const getMonsters = (game: Game) => getEntries(game, 'monsters');
@@ -84,14 +85,39 @@ export const getTreasure = (game: Game) => getEntries(game, 'treasure');
  */
 export function search(game: Game, query: string, options: LocaleOptions = {}): Entry[] {
   assertGame(game);
+  return searchByName(DATA[game], query, options.locale);
+}
+
+function findByName<T extends { name: string }>(items: readonly T[], name: string, locale?: Locale) {
+  const wanted = normalizeName(name);
+  const english = locale ? englishNameFor(locale, name) : undefined;
+  return items.find((item) => item.name === wanted || item.name === english);
+}
+
+function searchByName<T extends { name: string }>(items: readonly T[], query: string, locale?: Locale) {
   const q = foldText(query);
   if (!q) return [];
-  const { locale } = options;
-  return DATA[game].filter((e) => {
-    if (foldText(e.name).includes(q)) return true;
-    const translated = translate(locale, e.name);
+  return items.filter((item) => {
+    if (foldText(item.name).includes(q)) return true;
+    const translated = translate(locale, item.name);
     return translated !== undefined && foldText(translated).includes(q);
   });
+}
+
+/** Major named characters in a game, optionally limited to one race. Works offline. */
+export function getNpcs(game: Game, race?: Race): Npc[] {
+  assertGame(game);
+  return NPCS.filter((n) => n.games.includes(game) && (!race || n.race === race));
+}
+
+/** Looks up one NPC by English name (case-insensitive), or by translated name with `{ locale }`. */
+export function getNpc(game: Game, name: string, options: LocaleOptions = {}): Npc | undefined {
+  return findByName(getNpcs(game), name, options.locale);
+}
+
+/** NPCs whose name contains `query`. Same matching rules as `search`. */
+export function searchNpcs(game: Game, query: string, options: LocaleOptions = {}): Npc[] {
+  return searchByName(getNpcs(game), query, options.locale);
 }
 
 /** Monsters, creatures and treasure that drop the given item. */

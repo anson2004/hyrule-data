@@ -2,10 +2,10 @@ import type { Locale } from '../types.js';
 
 /**
  * Simplified Chinese (简体中文), the official in-game names.
- * Keys are English entry names as they appear in the data. Missing names fall back to English.
+ * Keys are English entry or NPC names as they appear in the data. Missing names fall back to English.
  *
- * Monsters: 129 of 131 translated. To add one, uncomment its line and fill in
- * the name exactly as the game shows it.
+ * Monsters: 129 of 131 translated. NPCs: 65 of 68.
+ * To add one, uncomment its line and fill in the name exactly as the game shows it.
  */
 export const zh: Locale = {
   code: 'zh-Hans',
@@ -143,6 +143,76 @@ export const zh: Locale = {
     'windblight ganon': '风咒盖侬',
     'yiga blademaster': '依盖队干部',
     'yiga footsoldier': '依盖队成员',
+
+    // --- npcs ---
+    addison: '卡邦达',
+    'bargainer statue': '魔人像',
+    bayge: '巴恺忒',
+    bazz: '斯八巴',
+    beedle: '特里',
+    bludo: '布尔多',
+    bolson: '樱达',
+    buliara: '碧优拉',
+    cado: '博嘉多',
+    calip: '卡里尤',
+    'captain hoz': '霍司塔',
+    // cece: '',
+    daruk: '达尔克尔',
+    dento: '罗司里',
+    dorian: '多朗',
+    'granté': '古拉内达',
+    'great deku tree': '德库树长老',
+    'great fairy cotera': '大妖精可秋拉',
+    'great fairy kaysa': '大妖精西莎',
+    'great fairy mija': '大妖精弥佳',
+    'great fairy tera': '大妖精蒂拉',
+    harth: '哈茨',
+    hestu: '伯库林',
+    hudson: '松达',
+    impa: '英帕',
+    jerrin: '洁琳',
+    josha: '乔舒亚',
+    kaneli: '卡昂',
+    karson: '桂达',
+    kass: '卡西瓦',
+    kilton: '吉尔顿',
+    'king dorephan': '多雷凡',
+    'king rhoam': '海拉鲁国王',
+    koko: '珂珂娜',
+    koltin: '柯尔天',
+    kotts: '珂茨',
+    lasli: '拉兹莉',
+    link: '林克',
+    malanya: '马泷',
+    mattison: '微达',
+    mineru: '米涅鲁',
+    mipha: '米法',
+    muzu: '慕兹力',
+    'old man': '老人',
+    paya: '帕雅',
+    pelison: '普彭达',
+    penn: '沛恩',
+    pikango: '康吉思',
+    'princess zelda': '塞尔达',
+    purah: '普尔亚',
+    rauru: '劳鲁',
+    revali: '力巴尔',
+    rhondson: '帕伍达',
+    riju: '露珠',
+    robbie: '洛贝利',
+    rotana: '罗汀',
+    saki: '莎琪',
+    seggin: '塞恭',
+    sidon: '希多',
+    // sonia: '',
+    symin: '西蒙',
+    tauro: '塔乌洛',
+    teba: '特巴',
+    traysi: '三叶',
+    tulin: '丘栗',
+    urbosa: '乌尔波扎',
+    // yona: '',
+    yunobo: '阿沅',
   },
 };
 

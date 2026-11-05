@@ -40,6 +40,7 @@ All functions take a `game` of `'botw' | 'totk'` and work offline.
 | `findByDrop(game, item)` | Entries that drop `item` |
 | `findByLocation(game, region)` | Entries commonly found in `region` |
 | `getLocations(game)` | All region names in the data |
+| `getNpcs(game, race?)` / `getNpc(game, name)` / `searchNpcs(game, query)` | Major named characters (name, games, race) |
 
 ### Translated names
 

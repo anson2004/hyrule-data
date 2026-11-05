@@ -1,10 +1,22 @@
 import { describe, expect, it } from 'vitest';
-import { GAMES, getEntries, getEntry, getName, search, type Locale } from '../src/index.js';
+import {
+  GAMES,
+  getEntries,
+  getEntry,
+  getName,
+  getNpc,
+  getNpcs,
+  search,
+  searchNpcs,
+  type Locale,
+} from '../src/index.js';
 import { nl } from '../src/locales/nl.js';
 import { zh } from '../src/locales/zh.js';
 
 const LOCALES = [zh, nl];
-const englishNames = new Set(GAMES.flatMap((g) => getEntries(g).map((e) => e.name)));
+const englishNames = new Set(
+  GAMES.flatMap((g) => [...getEntries(g), ...getNpcs(g)].map((e) => e.name)),
+);
 
 describe('bundled locales', () => {
   it.each(LOCALES.map((l) => [l.code, l] as const))('%s only translates names that exist', (_, locale) => {
@@ -49,5 +61,35 @@ describe('translated names', () => {
     const custom: Locale = { code: 'xx', official: false, names: { lynel: 'Lýnël' } };
     expect(getEntry('totk', 'lynel', { locale: custom })).toBeDefined();
     expect(search('totk', 'lyne', { locale: custom }).map((e) => e.name)).toContain('lynel');
+  });
+});
+
+describe('npcs', () => {
+  it.each(GAMES)('%s has npcs with unique names and valid fields', (game) => {
+    const npcs = getNpcs(game);
+    expect(npcs.length).toBeGreaterThan(30);
+    expect(new Set(npcs.map((n) => n.name)).size).toBe(npcs.length);
+    expect(npcs.every((n) => n.games.includes(game) && n.name === n.name.toLowerCase())).toBe(true);
+  });
+
+  it('npc names never clash with compendium entry names', () => {
+    const entries = new Set(GAMES.flatMap((g) => getEntries(g).map((e) => e.name)));
+    const npcs = new Set(GAMES.flatMap((g) => getNpcs(g).map((n) => n.name)));
+    expect([...npcs].filter((n) => entries.has(n))).toEqual([]);
+  });
+
+  it('filters by game and race', () => {
+    expect(getNpcs('totk').map((n) => n.name)).toContain('rauru');
+    expect(getNpcs('botw').map((n) => n.name)).not.toContain('rauru');
+    expect(getNpcs('botw', 'zora').every((n) => n.race === 'zora')).toBe(true);
+  });
+
+  it('looks up and searches npcs, also in other languages', () => {
+    expect(getNpc('totk', 'Impa')?.race).toBe('sheikah');
+    expect(getNpc('totk', '英帕', { locale: zh })?.name).toBe('impa');
+    expect(getName(getNpc('botw', 'princess zelda')!, nl)).toBe('Prinses Zelda');
+    expect(searchNpcs('totk', 'zelda').map((n) => n.name)).toContain('princess zelda');
+    expect(searchNpcs('botw', 'great fairy').length).toBe(4);
+    expect(searchNpcs('totk', 'grante').map((n) => n.name)).toContain('granté');
   });
 });

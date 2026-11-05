@@ -1,0 +1,529 @@
+[
+  {
+    "name": "addison",
+    "games": [
+      "totk"
+    ],
+    "race": "hylian"
+  },
+  {
+    "name": "bargainer statue",
+    "games": [
+      "totk"
+    ],
+    "race": "other"
+  },
+  {
+    "name": "bayge",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "goron"
+  },
+  {
+    "name": "bazz",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "zora"
+  },
+  {
+    "name": "beedle",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "hylian"
+  },
+  {
+    "name": "bludo",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "goron"
+  },
+  {
+    "name": "bolson",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "hylian"
+  },
+  {
+    "name": "buliara",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "gerudo"
+  },
+  {
+    "name": "cado",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "sheikah"
+  },
+  {
+    "name": "calip",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "hylian"
+  },
+  {
+    "name": "captain hoz",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "hylian"
+  },
+  {
+    "name": "cece",
+    "games": [
+      "totk"
+    ],
+    "race": "hylian"
+  },
+  {
+    "name": "daruk",
+    "games": [
+      "botw"
+    ],
+    "race": "goron"
+  },
+  {
+    "name": "dento",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "zora"
+  },
+  {
+    "name": "dorian",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "sheikah"
+  },
+  {
+    "name": "granté",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "other"
+  },
+  {
+    "name": "great deku tree",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "korok"
+  },
+  {
+    "name": "great fairy cotera",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "fairy"
+  },
+  {
+    "name": "great fairy kaysa",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "fairy"
+  },
+  {
+    "name": "great fairy mija",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "fairy"
+  },
+  {
+    "name": "great fairy tera",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "fairy"
+  },
+  {
+    "name": "harth",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "rito"
+  },
+  {
+    "name": "hestu",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "korok"
+  },
+  {
+    "name": "hudson",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "hylian"
+  },
+  {
+    "name": "impa",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "sheikah"
+  },
+  {
+    "name": "jerrin",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "hylian"
+  },
+  {
+    "name": "josha",
+    "games": [
+      "totk"
+    ],
+    "race": "sheikah"
+  },
+  {
+    "name": "kaneli",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "rito"
+  },
+  {
+    "name": "karson",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "hylian"
+  },
+  {
+    "name": "kass",
+    "games": [
+      "botw"
+    ],
+    "race": "rito"
+  },
+  {
+    "name": "kilton",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "other"
+  },
+  {
+    "name": "king dorephan",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "zora"
+  },
+  {
+    "name": "king rhoam",
+    "games": [
+      "botw"
+    ],
+    "race": "hylian"
+  },
+  {
+    "name": "koko",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "sheikah"
+  },
+  {
+    "name": "koltin",
+    "games": [
+      "totk"
+    ],
+    "race": "hylian"
+  },
+  {
+    "name": "kotts",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "rito"
+  },
+  {
+    "name": "lasli",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "sheikah"
+  },
+  {
+    "name": "link",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "hylian"
+  },
+  {
+    "name": "malanya",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "fairy"
+  },
+  {
+    "name": "mattison",
+    "games": [
+      "totk"
+    ],
+    "race": "gerudo"
+  },
+  {
+    "name": "mineru",
+    "games": [
+      "totk"
+    ],
+    "race": "zonai"
+  },
+  {
+    "name": "mipha",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "zora"
+  },
+  {
+    "name": "muzu",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "zora"
+  },
+  {
+    "name": "old man",
+    "games": [
+      "botw"
+    ],
+    "race": "hylian"
+  },
+  {
+    "name": "paya",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "sheikah"
+  },
+  {
+    "name": "pelison",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "goron"
+  },
+  {
+    "name": "penn",
+    "games": [
+      "totk"
+    ],
+    "race": "rito"
+  },
+  {
+    "name": "pikango",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "sheikah"
+  },
+  {
+    "name": "princess zelda",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "hylian"
+  },
+  {
+    "name": "purah",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "sheikah"
+  },
+  {
+    "name": "rauru",
+    "games": [
+      "totk"
+    ],
+    "race": "zonai"
+  },
+  {
+    "name": "revali",
+    "games": [
+      "botw"
+    ],
+    "race": "rito"
+  },
+  {
+    "name": "rhondson",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "gerudo"
+  },
+  {
+    "name": "riju",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "gerudo"
+  },
+  {
+    "name": "robbie",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "sheikah"
+  },
+  {
+    "name": "rotana",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "gerudo"
+  },
+  {
+    "name": "saki",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "rito"
+  },
+  {
+    "name": "seggin",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "zora"
+  },
+  {
+    "name": "sidon",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "zora"
+  },
+  {
+    "name": "sonia",
+    "games": [
+      "totk"
+    ],
+    "race": "hylian"
+  },
+  {
+    "name": "symin",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "sheikah"
+  },
+  {
+    "name": "tauro",
+    "games": [
+      "totk"
+    ],
+    "race": "hylian"
+  },
+  {
+    "name": "teba",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "rito"
+  },
+  {
+    "name": "traysi",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "hylian"
+  },
+  {
+    "name": "tulin",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "rito"
+  },
+  {
+    "name": "urbosa",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "gerudo"
+  },
+  {
+    "name": "yona",
+    "games": [
+      "totk"
+    ],
+    "race": "zora"
+  },
+  {
+    "name": "yunobo",
+    "games": [
+      "botw",
+      "totk"
+    ],
+    "race": "goron"
+  }
+]

@@ -2,10 +2,10 @@ import type { Locale } from '../types.js';
 
 /**
  * Dutch (Nederlands), the official in-game names.
- * Keys are English entry names as they appear in the data. Missing names fall back to English.
+ * Keys are English entry or NPC names as they appear in the data. Missing names fall back to English.
  *
- * Monsters: 125 of 131 translated. To add one, uncomment its line and fill in
- * the name exactly as the game shows it.
+ * Monsters: 125 of 131 translated. NPCs: 54 of 68.
+ * To add one, uncomment its line and fill in the name exactly as the game shows it.
  */
 export const nl: Locale = {
   code: 'nl',
@@ -143,6 +143,76 @@ export const nl: Locale = {
     'windblight ganon': 'Ganons windfantoom',
     'yiga blademaster': 'Yiga-elitesoldaat',
     'yiga footsoldier': 'Yiga-bendelid',
+
+    // --- npcs ---
+    // addison: '',
+    // 'bargainer statue': '',
+    bayge: 'Bayge',
+    bazz: 'Bazz',
+    beedle: 'Beedle',
+    bludo: 'Bludo',
+    bolson: 'Bolson',
+    buliara: 'Buliara',
+    cado: 'Cado',
+    calip: 'Calip',
+    'captain hoz': 'Hoz',
+    // cece: '',
+    daruk: 'Daruk',
+    dento: 'Dento',
+    dorian: 'Dorian',
+    // 'granté': '',
+    'great deku tree': 'Deku-boom',
+    // 'great fairy cotera': '',
+    'great fairy kaysa': 'Kaysa',
+    'great fairy mija': 'Mija',
+    'great fairy tera': 'Tera',
+    harth: 'Harth',
+    hestu: 'Hestu',
+    hudson: 'Hudson',
+    impa: 'Impa',
+    jerrin: 'Jerrin',
+    // josha: '',
+    kaneli: 'Kaneli',
+    karson: 'Karson',
+    kass: 'Kass',
+    kilton: 'Kilton',
+    'king dorephan': 'Koning Dorephan',
+    'king rhoam': 'Koning Rhoam',
+    koko: 'Koko',
+    // koltin: '',
+    kotts: 'Kotts',
+    lasli: 'Lasli',
+    link: 'Link',
+    malanya: 'Malanya',
+    // mattison: '',
+    // mineru: '',
+    mipha: 'Mipha',
+    muzu: 'Muzu',
+    'old man': 'Oude man',
+    paya: 'Paya',
+    pelison: 'Pelison',
+    // penn: '',
+    pikango: 'Pikango',
+    'princess zelda': 'Prinses Zelda',
+    purah: 'Purah',
+    // rauru: '',
+    revali: 'Revali',
+    rhondson: 'Rhondson',
+    riju: 'Riju',
+    robbie: 'Robbie',
+    rotana: 'Rotana',
+    saki: 'Saki',
+    seggin: 'Seggin',
+    sidon: 'Sidon',
+    // sonia: '',
+    symin: 'Symin',
+    // tauro: '',
+    teba: 'Teba',
+    traysi: 'Traysi',
+    tulin: 'Tulin',
+    urbosa: 'Urbosa',
+    // yona: '',
+    yunobo: 'Yunobo',
   },
 };
 

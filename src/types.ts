@@ -66,8 +66,42 @@ export type Entry = Creature | Equipment | Material | Monster | Treasure;
 
 export type EntryOfCategory<C extends Category> = Extract<Entry, { category: C }>;
 
+export type Race =
+  | 'hylian'
+  | 'sheikah'
+  | 'zora'
+  | 'goron'
+  | 'rito'
+  | 'gerudo'
+  | 'korok'
+  | 'zonai'
+  | 'fairy'
+  | 'other';
+
+export const RACES: readonly Race[] = [
+  'hylian',
+  'sheikah',
+  'zora',
+  'goron',
+  'rito',
+  'gerudo',
+  'korok',
+  'zonai',
+  'fairy',
+  'other',
+];
+
+/** A major named character. Not part of the Hyrule Compendium. */
+export interface Npc {
+  /** Lowercase English name, e.g. `'impa'`. */
+  name: string;
+  /** The games the character appears in. */
+  games: Game[];
+  race: Race;
+}
+
 /**
- * Translated entry names for one language. Import one from `hyrule-data/locales/<code>`
+ * Translated entry and NPC names for one language. Import one from `hyrule-data/locales/<code>`
  * and pass it to `getName`, `getEntry` or `search`.
  */
 export interface Locale {
@@ -76,7 +110,7 @@ export interface Locale {
   /** `true` when the names come from the games' official translation. */
   official: boolean;
   /**
-   * English entry name (exactly as in the data, lowercase) → translated name.
+   * English entry or NPC name (exactly as in the data, lowercase) → translated name.
    * Shared by BotW and TotK. Missing names fall back to English.
    */
   names: Readonly<Record<string, string>>;
