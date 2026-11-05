@@ -1,5 +1,7 @@
 # hyrule-data
 
+[![npm](https://img.shields.io/npm/v/hyrule-data)](https://www.npmjs.com/package/hyrule-data)
+
 Offline, fully typed data for *Breath of the Wild* (`botw`) and *Tears of the Kingdom* (`totk`):
 monsters, creatures, materials, equipment and treasure. It needs no network access and has zero runtime dependencies.
 
@@ -38,6 +40,14 @@ All functions take a `game` of `'botw' | 'totk'` and work offline.
 | `findByDrop(game, item)` | Entries that drop `item` |
 | `findByLocation(game, region)` | Entries commonly found in `region` |
 | `getLocations(game)` | All region names in the data |
+
+### Translated names
+
+Simplified Chinese (`hyrule-data/locales/zh`) and Dutch (`hyrule-data/locales/nl`) are supported.
+
+```ts
+search('totk', '莱尼尔', { locale: zh }); // import { zh } from 'hyrule-data/locales/zh'
+```
 
 The package does not include in-game description text or images. See [NOTICE.md](NOTICE.md).
 

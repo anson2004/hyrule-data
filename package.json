@@ -35,6 +35,26 @@
         "types": "./dist/index.d.cts",
         "default": "./dist/index.cjs"
       }
+    },
+    "./locales/zh": {
+      "import": {
+        "types": "./dist/locales/zh.d.ts",
+        "default": "./dist/locales/zh.js"
+      },
+      "require": {
+        "types": "./dist/locales/zh.d.cts",
+        "default": "./dist/locales/zh.cjs"
+      }
+    },
+    "./locales/nl": {
+      "import": {
+        "types": "./dist/locales/nl.d.ts",
+        "default": "./dist/locales/nl.js"
+      },
+      "require": {
+        "types": "./dist/locales/nl.d.cts",
+        "default": "./dist/locales/nl.cjs"
+      }
     }
   },
   "files": [

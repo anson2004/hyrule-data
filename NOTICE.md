@@ -33,5 +33,8 @@ by Aarav Borthakur and contributors, used under the MIT License:
 >
 > THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
+Translated names in `src/locales/` were checked against the "Names in Other Regions"
+sections of [Zelda Wiki](https://zeldawiki.wiki). Only names are included, no wiki text.
+
 If you are a rights holder and have a concern, please open an issue and it will
 be addressed promptly.

@@ -65,3 +65,19 @@ export interface Treasure extends BaseEntry {
 export type Entry = Creature | Equipment | Material | Monster | Treasure;
 
 export type EntryOfCategory<C extends Category> = Extract<Entry, { category: C }>;
+
+/**
+ * Translated entry names for one language. Import one from `hyrule-data/locales/<code>`
+ * and pass it to `getName`, `getEntry` or `search`.
+ */
+export interface Locale {
+  /** BCP 47 language code, e.g. `'zh-Hans'` or `'nl'`. */
+  code: string;
+  /** `true` when the names come from the games' official translation. */
+  official: boolean;
+  /**
+   * English entry name (exactly as in the data, lowercase) → translated name.
+   * Shared by BotW and TotK. Missing names fall back to English.
+   */
+  names: Readonly<Record<string, string>>;
+}
