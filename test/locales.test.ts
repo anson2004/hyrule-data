@@ -33,8 +33,8 @@ describe('translated names', () => {
     expect(getName(lynel)).toBe('lynel');
     expect(getName(lynel, zh)).toBe('莱尼尔');
     expect(getName(lynel, nl)).toBe('Lynel');
-    const branch = getEntry('totk', 'tree branch')!;
-    expect(getName(branch, zh)).toBe('tree branch');
+    const empty: Locale = { code: 'xx', official: false, names: {} };
+    expect(getName(lynel, empty)).toBe('lynel');
   });
 
   it('getEntry accepts an exact translated name', () => {
